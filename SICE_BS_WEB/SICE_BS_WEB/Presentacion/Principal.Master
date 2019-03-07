@@ -1,0 +1,255 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.Master.cs" Inherits="SICE_BS_WEB.Presentacion.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <title><%= Page.Title %> - SICE VUCEM</title>
+    <script src="../Scripts/jquery-3.1.1.js"></script>
+    <script src="../Scripts/bootstrap.js"></script>
+    <!-- Bootstrap posible se use para Grupo SAC -->
+    <!--
+    <script type="text/javascript" src="../Scripts/bootstrap.min.js"></script>
+     -->
+    <!-- Bootstrap Core CSS -->    
+    <link href="../Content/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="../Content/glyphicons.css" rel="stylesheet" type="text/css" />
+    <link href="../Content/style.css" rel="stylesheet" type="text/css" />   
+    <link href="../Content/submenu.css" rel="stylesheet" />    
+    <link href="../Content/sticky-footer.css" rel="stylesheet" type="text/css" />
+    <link href="../favicon1.ico" rel="shortcut icon" type="image/x-icon" />
+    <%--<link href="~/Content/font-awesome.min.css" rel="stylesheet" />        
+    <link href="../Content/bootstrap-select.min.css" rel="stylesheet" />
+    <script src="../Scripts/bootstrap-select.min.js"></script>--%>
+    <script src="../Scripts/open_submenu.js"></script>
+
+    <%--<script src="../Scripts/i18n/defaults-*.min.js"></script>--%>    
+    <%--<script src="../Scripts/canvasjs.min.js"></script>--%>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <script>
+        $(document).ready(function () {
+            $('#AlertQuestion,#AlertError,#AlertSuccess').modal({
+                backdrop: 'static',
+                keyboard: false,
+                show: false
+            });
+
+            $('#AlertQuestion,#AlertError,#AlertSuccess').on('show.bs.modal', function (event) {
+                var button = $(event.relatedTarget);
+                var whatever = document.getElementById(button[0].id).getAttribute('data-whatever');
+                $(this).find('.alert-title').html(whatever);
+            });
+
+        });
+
+        function alertQuestion(mensaje, element) {
+            if (element.href.length > 0) {
+                document.getElementById('btnOk').setAttribute('onclick', element.href);
+                document.getElementById('btnQuestion').setAttribute('data-whatever', mensaje);
+                document.getElementById('btnQuestion').click();
+            }
+        }
+
+        function Numeros(e) {
+            var key;
+            var isShift;
+            var isCtrl;
+
+            if (window.event) {
+                key = window.event.keyCode;
+                isShift = !!window.event.shiftKey; // typecast to boolean
+                isCtrl = !!window.event.ctrlKey;
+            }
+            else {
+                key = e.which;
+                isShift = !!e.shiftKey;
+                isCtrl = !!e.ctrlKey;
+            }
+
+            if (isCtrl)
+                return true;
+
+            if (isShift && (key >= 48 && key <= 57))
+                return false;
+
+            if ((key >= 8 && key <= 31) || (key >= 33 && key <= 57) || (key >= 96 && key <= 105))
+                return true;
+
+            return false;
+        }
+
+        function disableBtn(button) {
+            button.removeAttribute('href');
+            button.setAttribute('disabled', 'disabled');
+        }
+
+        function enableBtn(button) {
+            var uniqueId = button.id.replace(/_/g, "$");
+            button.setAttribute('href', "javascript:__doPostBack('" + uniqueId + "','');");
+            button.removeAttribute('disabled', 'disabled');
+        }
+
+        function asignarClases(div, i, error) {
+            if (error != null)
+                if (error) {
+                    if (div != null)
+                        div.className = "has-error";
+                    if (i != null)
+                        i.className = "form-control-feedback glyphicon glyphicon-remove";
+                }
+                else {
+                    if (div != null)
+                        div.className = "has-success";
+                    if (i != null)
+                        i.className = "form-control-feedback glyphicon glyphicon-ok";
+                }
+        }
+
+        function limpiarClases(div, i) {
+            if (div != null)
+                div.className = "";
+            if (i != null)
+                i.className = "";
+        }
+    </script>
+    <style>
+        .logoSice {
+            position: relative;
+        }
+        .logoSice-toggle li.selected:after > a {
+            padding-right: 12px;
+            padding-left: 12px;
+            background-color: #F7F7F7 !important;
+            border-color: #039DD4 !important;
+            color: #5E5E5E !important;
+        }   
+        
+        .imagen-logo-left{
+            width:  130px; 
+            height: 100%; 
+            /*overflow: hidden;
+            background-size: cover;
+            background-position: left;
+            background-repeat: no-repeat;
+            display:block;
+            */
+            position:relative;             
+            margin-left:15px;
+        }
+        
+        .imagen-logo-footer{
+            width:  120px;   /*70px;*/  
+            height: 45px;   /*26px;*/          
+        } 
+        
+        .espacio_menu{
+            width:  5px; 
+            height: 26px;
+            overflow: hidden;
+        }            
+                     
+    </style>
+</head>
+<body>
+    <div id="NavMenu" class="navbar navbar-default navbar-inverse header" runat="server">
+        <div class="container-fluid">
+            <!-- Marca y menú se agrupan para una mejor visualización en dispositivos móbiles -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navBarCollapse" aria-expanded="false">
+                    <span class="glyphicon glyphicon-th-large" aria-hidden="true"></span>
+                </button>
+                <a class="navbar-brand" href='Default.aspx'>
+                    <%--<img src='../img/logo.jpg' />--%>
+                    <img id="ImgLogo" runat="server" class="imagen-logo-left" visible="false" />
+                </a>
+                <a class="navbar-brand espacio_menu"></a>
+                <%--<ul class='nav navbar-nav navbar-right'>
+                    <li class='logoSice'>
+                        <a href='#' class='logoSice-toggle' data-toggle='logoSice'><i class="fa fa-connectdevelop fa-4"></i>SICE VUCEM</a>                        
+                    </li>                
+                </ul>--%>
+
+                <%--<a class="navbar-brand" href="Default.aspx"><i class="fa fa-connectdevelop fa-4"></i>SICE VUCEM</a>--%>                                                             
+            </div>
+            <div id="navBarCollapse" runat="server" class="collapse navbar-collapse">
+            </div>
+        </div>
+    </div>
+    <form runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <asp:ContentPlaceHolder ID="ContentSection" runat="server"></asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="ScriptSection" runat="server"></asp:ContentPlaceHolder>
+    </form>
+    <footer id="divFooter" runat="server" class="footer">
+        <div class="container">
+            <table style="width:100%; border-spacing:0px; padding:0px" border="0">
+                <tr>
+                    <%-- <td style="width:17%; text-align:right; padding-right:10px">
+                        <img src='../img/logo.jpg' class="imagen-logo-footer" />
+                    </td>--%>
+                    <td style="width:100%; text-align:center; font-size:10pt">
+                        <h6 id="foH6" runat="server" class="text-muted">
+                            SICE VUCEM System by Sac Grupo de Ingeniería S.A. de C.V &copy; <%: DateTime.Now.Year %>. Todos los derechos reservados. &#10;
+                            <br />
+                            Se prohibe cualquier reproducción total o parcial de este contenido sin autorización por escrito de su titular. 
+                        </h6>
+                    </td>
+                    <%--<td style="width:17%; text-align:left; padding-left:2px">
+                        <img src='../img/logosac.png' class="imagen-logo-footer" />
+                    </td>--%>
+                </tr>
+            </table>
+        </div>
+    </footer>
+    <button id="btnQuestion" type="button" data-toggle="modal" data-target="#AlertQuestion" style="display: none;"></button>
+    <div class="modal fade" id="AlertQuestion" tabindex="-1" role="dialog" style="top: 25%; outline: none;">
+        <div class="modal-dialog modal-sm" role="document">
+            <div class="alert alert-info text-center" style="-webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, .5); box-shadow: 0 5px 15px rgba(0, 0, 0, .5);">
+                <span class="glyphicon glyphicon-question-sign ico"></span>
+                <br />
+                <br />
+                <p class="alert-title">
+                </p>
+                <hr />
+                <a id="btnOk" class="btn btn-info" data-dismiss="modal">Aceptar</a>
+                <a id="btnCancel" class="btn btn-info" data-dismiss="modal">Cancelar</a>
+            </div>
+        </div>
+    </div>
+    <button id="btnError" type="button" data-toggle="modal" data-target="#AlertError" style="display: none;"></button>
+    <div class="modal fade" id="AlertError" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-sm" role="document" style="top: 25%; outline: none;">
+            <div class="alert alert-danger text-center" style="-webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, .5); box-shadow: 0 5px 15px rgba(0, 0, 0, .5);">
+                <span class="glyphicon glyphicon-alert ico"></span>
+                <br />
+                <br />
+                <p class="alert-title">
+                </p>
+                <hr />
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Aceptar</button>
+            </div>
+        </div>
+    </div>
+    <button id="btnSuccess" type="button" data-toggle="modal" data-target="#AlertSuccess" style="display: none;"></button>
+    <div class="modal fade" id="AlertSuccess" tabindex="-1" role="dialog" style="top: 25%; outline: none;">
+        <div class="modal-dialog modal-sm" role="document">
+            <div class="alert alert-success text-center" style="-webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, .5); box-shadow: 0 5px 15px rgba(0, 0, 0, .5);">
+                <span class="glyphicon glyphicon-thumbs-up ico"></span>
+                <br />
+                <br />
+                <p class="alert-title">
+                </p>
+                <hr />
+                <button type="button" class="btn btn-success" data-dismiss="modal">Aceptar</button>
+            </div>
+        </div>
+    </div>
+    <!-- Generated markup by the plugin -->
+    <div class="tooltip top" role="tooltip">
+        <div class="tooltip-arrow"></div>
+        <div class="tooltip-inner"></div>
+    </div>
+</body>
+</html>

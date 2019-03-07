@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="urn:ExpedienteComercioIntf" name="IExpedienteComercioservice" targetNamespace="http://tempuri.org/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xs:schema xmlns="urn:ExpedienteComercioIntf" targetNamespace="urn:ExpedienteComercioIntf">
+      <xs:complexType name="TExpediente">
+        <xs:sequence xmlns="http://www.w3.org/2001/XMLSchema">
+          <xs:element name="Pedimento" type="xs:string" />
+          <xs:element name="Archivo" type="xs:string" />
+          <xs:element name="RFC" type="xs:string" />
+          <xs:element name="Tipo" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="TRespuesta">
+        <xs:sequence xmlns="http://www.w3.org/2001/XMLSchema">
+          <xs:element name="Fkey" type="xs:string" />
+          <xs:element name="RFCDS" type="xs:string" />
+          <xs:element name="Error" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+  </types>
+  <message name="GetPedimento0Request">
+    <part name="RFC" type="xs:string" />
+    <part name="Pedimento" type="xs:string" />
+    <part name="Tipo" type="xs:string" />
+  </message>
+  <message name="GetPedimento0Response">
+    <part name="return" type="ns1:TExpediente" />
+  </message>
+  <message name="Getzip1Request">
+    <part name="RFC" type="xs:string" />
+    <part name="pedimentoA" type="xs:string" />
+  </message>
+  <message name="Getzip1Response">
+    <part name="return" type="ns1:TExpediente" />
+  </message>
+  <message name="Procesads2Request">
+    <part name="Fkey" type="xs:string" />
+    <part name="RFC" type="xs:string" />
+  </message>
+  <message name="Procesads2Response">
+    <part name="return" type="ns1:TRespuesta" />
+  </message>
+  <message name="Procesapeca3Request">
+    <part name="Fkey" type="xs:string" />
+    <part name="RFC" type="xs:string" />
+  </message>
+  <message name="Procesapeca3Response">
+    <part name="return" type="ns1:TRespuesta" />
+  </message>
+  <portType name="IExpedienteComercio">
+    <operation name="GetPedimento">
+      <input message="tns:GetPedimento0Request" />
+      <output message="tns:GetPedimento0Response" />
+    </operation>
+    <operation name="Getzip">
+      <input message="tns:Getzip1Request" />
+      <output message="tns:Getzip1Response" />
+    </operation>
+    <operation name="Procesads">
+      <input message="tns:Procesads2Request" />
+      <output message="tns:Procesads2Response" />
+    </operation>
+    <operation name="Procesapeca">
+      <input message="tns:Procesapeca3Request" />
+      <output message="tns:Procesapeca3Response" />
+    </operation>
+  </portType>
+  <binding name="IExpedienteComerciobinding" type="tns:IExpedienteComercio">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <operation name="GetPedimento">
+      <soap:operation soapAction="urn:ExpedienteComercioIntf-IExpedienteComercio#GetPedimento" style="rpc" />
+      <input>
+        <soap:body use="encoded" namespace="urn:ExpedienteComercioIntf-IExpedienteComercio" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="urn:ExpedienteComercioIntf-IExpedienteComercio" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+    <operation name="Getzip">
+      <soap:operation soapAction="urn:ExpedienteComercioIntf-IExpedienteComercio#Getzip" style="rpc" />
+      <input>
+        <soap:body use="encoded" namespace="urn:ExpedienteComercioIntf-IExpedienteComercio" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="urn:ExpedienteComercioIntf-IExpedienteComercio" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+    <operation name="Procesads">
+      <soap:operation soapAction="urn:ExpedienteComercioIntf-IExpedienteComercio#Procesads" style="rpc" />
+      <input>
+        <soap:body use="encoded" namespace="urn:ExpedienteComercioIntf-IExpedienteComercio" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="urn:ExpedienteComercioIntf-IExpedienteComercio" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+    <operation name="Procesapeca">
+      <soap:operation soapAction="urn:ExpedienteComercioIntf-IExpedienteComercio#Procesapeca" style="rpc" />
+      <input>
+        <soap:body use="encoded" namespace="urn:ExpedienteComercioIntf-IExpedienteComercio" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="urn:ExpedienteComercioIntf-IExpedienteComercio" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+  </binding>
+  <service name="IExpedienteComercioservice">
+    <port name="IExpedienteComercioPort" binding="tns:IExpedienteComerciobinding">
+      <soap:address location="http://184.107.73.107:8080/soap/IExpedienteComercio" />
+    </port>
+  </service>
+</definitions>

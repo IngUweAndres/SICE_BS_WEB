@@ -1,0 +1,739 @@
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01.SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01.SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01.SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01.SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01.SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01.SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01.SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01.SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01.SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01.SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB2\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\InactionWMS_Web_Indar\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\InactionWMS_Web_Indar\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\InactionWMS_Web_Indar\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\InactionWMS_Web_Indar\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\InactionWMS_Web_Indar\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\InactionWMS_Web_Indar\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\InactionWMS_Web_Indar\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\bin\DevExpress.Web.v17.1.xml
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\bin\de\DevExpress.Web.v17.1.resources.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\bin\es\DevExpress.Web.v17.1.resources.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\bin\ja\DevExpress.Web.v17.1.resources.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB - copia\SICE_BS_WEB\bin\ru\DevExpress.Web.v17.1.resources.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Web.v17.1.xml
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Web.v17.1.resources.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Web.v17.1.resources.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Web.v17.1.resources.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Web.v17.1.resources.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\empresas\PEÑAFIEL\04_300518\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\Users\Josue Gabriel Moreno\Documents\ema\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\Users\Josue Gabriel Moreno\Documents\ema\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\Users\Josue Gabriel Moreno\Documents\ema\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\Users\Josue Gabriel Moreno\Documents\ema\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\Users\Josue Gabriel Moreno\Documents\ema\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\Users\Josue Gabriel Moreno\Documents\ema\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\Users\Josue Gabriel Moreno\Documents\ema\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\Users\Josue Gabriel Moreno\Documents\ema\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\Users\Josue Gabriel Moreno\Documents\ema\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\Users\Josue Gabriel Moreno\Documents\ema\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\04 SICE_BS_WEB_ricardo_agrego_campos_nuevos_grids\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.ANEXOYFACTURAS.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.CodeParser.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.ANEXOYFACTURAS.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\05 SICE_BS_WEB_sin_microsoft_webform_dll\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.CodeParser.v17.1.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.xml
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.xml
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.ANEXOYFACTURAS.resources
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\Users\EmmanuelV\Desktop\SICE_BS_WEB_ema\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.CodeParser.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.ANEXOYFACTURAS.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Data.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Office.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Printing.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\06 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraPrinting.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.CodeParser.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Data.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Office.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Printing.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraPrinting.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.ANEXOYFACTURAS.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07 SICE_BS_WEB_colores\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.CodeParser.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Data.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Office.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Printing.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraPrinting.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.ANEXOYFACTURAS.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.ANEXOYFACTURAS.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.CodeParser.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Data.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Office.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Printing.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraPrinting.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB detalleanexo\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\Temp\sice_m3.jpg
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.CodeParser.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.ANEXOYFACTURAS.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Office.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Printing.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\07_SICEWEB modica webconfig\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraPrinting.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\Temp\sice_m3.jpg
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.CodeParser.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.ANEXOYFACTURAS.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.MValor.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Office.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Printing.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraPrinting.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\Temp\sice_m3.jpg
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.CodeParser.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Office.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Printing.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraPrinting.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.ANEXOYFACTURAS.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.MValor.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 2\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\Temp\sice_m3.jpg
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.CodeParser.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Office.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Printing.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Web.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraPrinting.v17.1.xml
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.ANEXOYFACTURAS.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.MValor.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\PROYECTOS\VISUAL STUDIO\01. SICE_WEB\1. Codigo\3.SICE_WEB\09 SICE_BS_WEB 3_fin_mv_hc\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\bin\DevExpress.Web.v17.1.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\img\iconos\ico_ed.png
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\Temp\sice_m3.jpg
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_gris.png
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\Presentacion\ico_verde.png
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll.config
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\SICE_BS_WEB.pdb
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.CodeParser.v17.1.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Office.v17.1.Core.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Printing.v17.1.Core.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Utils.v17.1.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Web.v17.1.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.Xpo.v17.1.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csprojResolveAssemblyReference.cache
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.ANEXOYFACTURAS.resources
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.MValor.resources
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.Presentacion.XtraReport1.resources
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.csproj.GenerateResource.Cache
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll.licenses
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.dll
+C:\Users\KARLA\Documents\Andres\SICE_BS_WEB\SICE_BS_WEB\SICE_BS_WEB\obj\Debug\SICE_BS_WEB.pdb

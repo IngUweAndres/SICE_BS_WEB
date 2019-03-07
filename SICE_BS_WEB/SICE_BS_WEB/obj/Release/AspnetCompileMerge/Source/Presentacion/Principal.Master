@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.Master.cs" Inherits="InactionWMS_Web_Indar.Presentacion.Pricipal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title><%= Page.Title %> - In Action</title>
+    <script src="../Scripts/jquery-3.1.1.js"></script>
+    <script src="../Scripts/bootstrap.js"></script>
+    <!-- Bootstrap Core CSS -->
+    <link href="../Content/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="../Content/style.css" rel="stylesheet" type="text/css" />
+    <link href="../Content/submenu.css" rel="stylesheet" />
+    <link href="../Content/sticky-footer.css" rel="stylesheet" type="text/css" />
+    <link href="../favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="NavMenu" class="navbar navbar-default navbar-inverse header" runat="server">
+        <div class="container-fluid">
+            <div id="navBarCollapseIndar" runat="server" class="collapse navbar-collapse">
+            </div>
+        </div>
+    </div>
+    <form runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <asp:ContentPlaceHolder ID="ContentSection" runat="server"></asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="ScriptSection" runat="server"></asp:ContentPlaceHolder>
+    </form>
+    <footer class="footer">
+        <div class="container">
+            <h6 class="text-muted text-center">In Action Warehouse Management System by DataWare &copy; <%: DateTime.Now.Year %>. Todos los derechos reservados.
+                <br />
+                Se prohibe cualquier reproducción total o parcial de este contenido sin autorización por escrito de su titular. 
+            </h6>
+        </div>
+    </footer>
+</body>
+</html>

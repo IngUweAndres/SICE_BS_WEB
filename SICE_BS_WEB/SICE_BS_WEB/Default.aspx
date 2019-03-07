@@ -1,0 +1,375 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Presentacion/Principal.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="SICE_BS_WEB.Default" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentSection" runat="server">
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ScriptSection" runat="server">
+</asp:Content>
+
+
+
+
+
+
+<%--<S:Body>
+<ns2:consultarPedimentoCompletoRespuesta xmlns="http://www.ventanillaunica.gob.mx/pedimentos/ws/oxml/comunes" xmlns:ns2="http://www.ventanillaunica.gob.mx/pedimentos/ws/oxml/consultarpedimentocompleto" xmlns:ns3="http://www.ventanillaunica.gob.mx/common/ws/oxml/respuesta" xmlns:ns4="http://www.ventanillaunica.gob.mx/common/ws/oxml/documento" xmlns:ns5="http://www.ventanillaunica.gob.mx/common/ws/oxml/respuestatra" xmlns:ns6="http://www.ventanillaunica.gob.mx/common/ws/oxml/dictamen" xmlns:ns7="http://www.ventanillaunica.gob.mx/common/ws/oxml/observacion" xmlns:ns8="http://www.ventanillaunica.gob.mx/common/ws/oxml/requisito" xmlns:ns9="http://www.ventanillaunica.gob.mx/common/ws/oxml/opinion">
+<ns3:tieneError>false</ns3:tieneError>
+<ns2:numeroOperacion>4515746807</ns2:numeroOperacion>
+<ns2:pedimento>
+	<ns2:pedimento>4000454</ns2:pedimento>
+	<ns2:encabezado>
+		<ns2:tipoOperacion>
+			<ns2:clave>1</ns2:clave>
+			<ns2:descripcion>Importacion</ns2:descripcion>
+		</ns2:tipoOperacion>
+		<ns2:claveDocumento>
+			<ns2:clave>A1</ns2:clave>
+			<ns2:descripcion>IMPORTACION DEFINITIVA</ns2:descripcion>
+		</ns2:claveDocumento>
+		<ns2:destino>
+			<ns2:clave>9</ns2:clave>
+			<ns2:descripcion>INTERIOR DEL PAIS</ns2:descripcion>
+		</ns2:destino>
+		<ns2:aduanaEntradaSalida>
+			<ns2:clave>810</ns2:clave>
+			<ns2:descripcion>ALTAMIRA, TAMPS.</ns2:descripcion>
+		</ns2:aduanaEntradaSalida>
+		<ns2:tipoCambio>13.14760</ns2:tipoCambio>
+		<ns2:pesoBruto>3469.410</ns2:pesoBruto>
+		<ns2:medioTrasnporteSalida>
+			<ns2:clave>7</ns2:clave>
+			<ns2:descripcion>CARRETERO</ns2:descripcion>
+		</ns2:medioTrasnporteSalida>
+		<ns2:medioTrasnporteArribo>
+			<ns2:clave>1</ns2:clave>
+			<ns2:descripcion>MARITIMO</ns2:descripcion>
+		</ns2:medioTrasnporteArribo>
+		<ns2:medioTrasnporteEntrada>
+			<ns2:clave>1</ns2:clave>
+			<ns2:descripcion>MARITIMO</ns2:descripcion>
+		</ns2:medioTrasnporteEntrada>
+		<ns2:curpApoderadomandatario>GEFE470405HTSRRN07</ns2:curpApoderadomandatario>
+		<ns2:rfcAgenteAduanalSocFactura>TAG9404291P4</ns2:rfcAgenteAduanalSocFactura>
+		<ns2:valorDolares>0.00</ns2:valorDolares>
+		<ns2:valorAduanalTotal>419034.00</ns2:valorAduanalTotal>
+		<ns2:valorComercialTotal>419032.00</ns2:valorComercialTotal>
+    </ns2:encabezado>
+	<ns2:importadorExportador>
+		<ns2:rfc>MPE8309215YA</ns2:rfc>
+		<ns2:razonSocial>MANANTIALES PENAFIEL, S.A. DE C.V. </ns2:razonSocial>
+        <ns2:domicilio>
+            <ns2:calle>AVENIDA JOSE GARCI CRESPO, SAN NICOLAS TETITZINTLA </ns2:calle>
+            <ns2:numeroExterior>2805 </ns2:numeroExterior>
+            <ns2:numeroInterior>S/N </ns2:numeroInterior>
+            <ns2:ciudadMunicipio>TEHUACAN </ns2:ciudadMunicipio>
+            <ns2:codigoPostal>75710 </ns2:codigoPostal>
+        </ns2:domicilio>
+        <ns2:seguros>0.00</ns2:seguros>
+        <ns2:fletes>0.00</ns2:fletes>
+        <ns2:embalajes>0.00</ns2:embalajes>
+        <ns2:incrementables>0.00</ns2:incrementables>
+        <ns2:aaduanaDespacho>
+            <ns2:clave>810</ns2:clave>
+            <ns2:descripcion>ALTAMIRA, TAMPS.</ns2:descripcion>
+        </ns2:aaduanaDespacho>
+        <ns2:bultos>0</ns2:bultos>
+        <ns2:fechas>
+            <ns2:fecha>2014-03-14-06:00</ns2:fecha>
+            <ns2:tipo><ns2:clave>2</ns2:clave>
+                <ns2:descripcion>FECHA DE PAGO DE LAS CONTRIBUCIONES</ns2:descripcion>
+            </ns2:tipo>
+        </ns2:fechas>
+        <ns2:fechas>
+            <ns2:fecha>2014-03-10-06:00</ns2:fecha>
+            <ns2:tipo>
+                <ns2:clave>1</ns2:clave>
+                <ns2:descripcion>FECHA DE ENTRADA A TERRITORIO NAL.</ns2:descripcion>
+            </ns2:tipo>
+        </ns2:fechas>
+        <ns2:efectivo>1194.00</ns2:efectivo>
+        <ns2:otros>0</ns2:otros>
+        <ns2:total>1194.00</ns2:total>
+        <ns2:pais>
+            <clave>MEX</clave>
+            <descripcion>MEXICO (ESTADOS UNIDOS MEXICANOS)</descripcion>
+        </ns2:pais>
+	</ns2:importadorExportador>
+    <ns2:tasas>
+        <ns2:contribucion>
+            <ns2:clave>15</ns2:clave>
+            <ns2:descripcion>PREVALIDAAAA</ns2:descripcion>
+        </ns2:contribucion>
+        <ns2:tipoTasa>
+            <clave>2</clave>
+            <descripcion>ESPECIFICO</descripcion>
+        </ns2:tipoTasa>
+        <ns2:tasaAplicable>190.0000000000</ns2:tasaAplicable>
+        <ns2:formaPago>
+            <clave>0</clave>
+            <descripcion>EFECTIVO</descripcion>
+        </ns2:formaPago>
+        <ns2:importe>190.00</ns2:importe>
+    </ns2:tasas>
+    <ns2:tasas>
+        <ns2:contribucion>
+            <ns2:clave>21</ns2:clave>
+            <ns2:descripcion>CONTRAPRESTA</ns2:descripcion>
+        </ns2:contribucion>
+        <ns2:tipoTasa>
+            <clave>2</clave>
+            <descripcion>ESPECIFICO</descripcion>
+        </ns2:tipoTasa>
+        <ns2:tasaAplicable>20.0000000000</ns2:tasaAplicable>
+        <ns2:formaPago>
+            <clave>0</clave>
+            <descripcion>EFECTIVO</descripcion>
+        </ns2:formaPago>
+        <ns2:importe>54.00</ns2:importe>
+    </ns2:tasas>
+    <ns2:tasas>
+        <ns2:contribucion>
+            <ns2:clave>1</ns2:clave>
+            <ns2:descripcion>DTA</ns2:descripcion>
+        </ns2:contribucion>
+        <ns2:tipoTasa>
+            <clave>7</clave>
+            <descripcion>AL MILLAR DTA</descripcion>
+        </ns2:tipoTasa>
+        <ns2:tasaAplicable>8.0000000000</ns2:tasaAplicable>
+        <ns2:formaPago>
+            <clave>0</clave>
+            <descripcion>EFECTIVO</descripcion>
+        </ns2:formaPago>
+        <ns2:importe>950.00</ns2:importe>
+    </ns2:tasas>
+    <ns2:proveedoresCompradores>
+        <ns2:valorMonedaExtranjera>0.000000</ns2:valorMonedaExtranjera>
+        <ns2:valorDolares>0.00</ns2:valorDolares>
+    </ns2:proveedoresCompradores>
+    <ns2:proveedoresCompradores>
+        <ns2:valorMonedaExtranjera>0.000000</ns2:valorMonedaExtranjera>
+        <ns2:valorDolares>0.00</ns2:valorDolares>
+    </ns2:proveedoresCompradores>
+    <ns2:proveedoresCompradores>
+        <ns2:valorMonedaExtranjera>0.000000</ns2:valorMonedaExtranjera>
+        <ns2:valorDolares>0.00</ns2:valorDolares>
+    </ns2:proveedoresCompradores>
+    <ns2:facturas>
+        <ns2:numero>COVE140G35A58</ns2:numero>
+        <ns2:terminoFacturacion>
+            <ns2:clave>DAP</ns2:clave>
+            <ns2:descripcion>ENTREGADA EN LUGAR</ns2:descripcion>
+        </ns2:terminoFacturacion>
+        <ns2:valorDolares>0.00</ns2:valorDolares>
+        <ns2:valorMonedaExtranjera>0.000000</ns2:valorMonedaExtranjera>
+    </ns2:facturas>
+    <ns2:facturas>
+        <ns2:numero>COVE140G35AA1</ns2:numero>
+        <ns2:terminoFacturacion>
+            <ns2:clave>DAP</ns2:clave>
+            <ns2:descripcion>ENTREGADA EN LUGAR</ns2:descripcion>
+        </ns2:terminoFacturacion>
+        <ns2:valorDolares>0.00</ns2:valorDolares>
+        <ns2:valorMonedaExtranjera>0.000000</ns2:valorMonedaExtranjera>
+    </ns2:facturas>
+    <ns2:facturas>
+        <ns2:numero>COVE140G35A13</ns2:numero>
+        <ns2:terminoFacturacion>
+            <ns2:clave>DAP</ns2:clave>
+            <ns2:descripcion>ENTREGADA EN LUGAR</ns2:descripcion>
+        </ns2:terminoFacturacion>
+        <ns2:valorDolares>0.00</ns2:valorDolares>
+        <ns2:valorMonedaExtranjera>0.000000</ns2:valorMonedaExtranjera>
+    </ns2:facturas>
+    <ns2:transportes>
+        <ns2:identificador>BOXTRADER</ns2:identificador>
+        <ns2:paisTransporte>
+            <clave>LBR</clave>
+            <descripcion>LIBERIA (REPUBLICA DE)</descripcion>
+        </ns2:paisTransporte>
+        <ns2:nombre>BOXTRADER</ns2:nombre>
+    </ns2:transportes>
+    <ns2:guias>
+        <ns2:guiaManifiesto>HLCUHAM140213</ns2:guiaManifiesto>
+        <ns2:tipoGuia>M</ns2:tipoGuia>
+    </ns2:guias>
+    <ns2:identificadores>
+        <ns2:identificadores>
+            <claveIdentificador>
+                <clave>ED</clave>
+                <descripcion>E_DOCUMENT DOCUMENTO DIGITALIZADO</descripcion>
+            </claveIdentificador>
+            <complemento1>04331400VM396</complemento1>
+        </ns2:identificadores>
+        <ns2:identificadores>
+            <claveIdentificador>
+                <clave>ED</clave>
+                <descripcion>E_DOCUMENT DOCUMENTO DIGITALIZADO</descripcion>
+            </claveIdentificador>
+            <complemento1>04361401BC9C1</complemento1>
+        </ns2:identificadores>
+        <ns2:identificadores>
+            <claveIdentificador>
+                <clave>ED</clave>
+                <descripcion>E_DOCUMENT DOCUMENTO DIGITALIZADO</descripcion>
+            </claveIdentificador>
+            <complemento1>04331400VM372</complemento1>
+        </ns2:identificadores>
+        <ns2:identificadores>
+            <claveIdentificador>
+                <clave>CR</clave>
+                <descripcion>CLAVE DE RECINTO FISCAL O FISCALIZADO</descripcion>
+            </claveIdentificador>
+            <complemento1>22</complemento1>
+        </ns2:identificadores>
+        <ns2:identificadores>
+            <claveIdentificador>
+                <clave>ED</clave>
+                <descripcion>E_DOCUMENT DOCUMENTO DIGITALIZADO</descripcion>
+            </claveIdentificador>
+            <complemento1>04381401GQ2P3</complemento1>
+        </ns2:identificadores>
+    </ns2:identificadores>
+    <ns2:observaciones>SE APLICA PREFERENCIA ARANCELARIA ( C O M U N I D A D E C O N O M I C A E U R O P E A ). SE PAGA EL DERECHO DE TRAMITE ADUANERO PREVISTO EN EL ARTICULO 49, FRACCION IV DE LA LEY FEDERAL DE DERECHOS DE CONFORMIDAD CON LA REGLA 5.1.4. DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR ( C O M U N I D A D E C O N O M I C A E U R O P E A ). SE ANEXA LA SIGUIENTE DOCUMENTACION: (1) FACTURA COMERCIAL NO. 1098013489 CON DECLARACION DE ORIGEN PREFERENCIAL C O M U N I D A D E U R O P E A ( AUTORIZACION ADUANERA NO. DE/8800/EA/0100 ). (1) FACTURA COMERCIAL NO. 1098013497 CON DECLARACION DE ORIGEN PREFERENCIAL C O M U N I D A D E U R O P E A ( AUTORIZACION ADUANERA NO. DE/8800/EA/0100 ). (1) CONOCIMIENTO MARITIMO (SUBDIVIDIDO). (1) CARTA DE NO REQUERIR ETIQUETADO. </ns2:observaciones>
+    <ns2:partidas>158</ns2:partidas>
+    <ns2:partidas>36</ns2:partidas>
+    <ns2:partidas>179</ns2:partidas>
+    <ns2:partidas>6</ns2:partidas>
+    <ns2:partidas>59</ns2:partidas>
+    <ns2:partidas>113</ns2:partidas>
+    <ns2:partidas>24</ns2:partidas>
+    <ns2:partidas>122</ns2:partidas>
+    <ns2:partidas>30</ns2:partidas>
+    <ns2:partidas>64</ns2:partidas>
+    <ns2:partidas>7</ns2:partidas>
+    <ns2:partidas>31</ns2:partidas>
+    <ns2:partidas>44</ns2:partidas>
+    <ns2:partidas>188</ns2:partidas>
+    <ns2:partidas>74</ns2:partidas>
+    <ns2:partidas>149</ns2:partidas>
+    <ns2:partidas>45</ns2:partidas>
+    <ns2:partidas>95</ns2:partidas>
+    <ns2:partidas>78</ns2:partidas>
+    <ns2:partidas>29</ns2:partidas>
+    <ns2:partidas>120</ns2:partidas>
+    <ns2:partidas>16</ns2:partidas>
+    <ns2:partidas>5</ns2:partidas>
+    <ns2:partidas>79</ns2:partidas>
+    <ns2:partidas>63</ns2:partidas>
+    <ns2:partidas>147</ns2:partidas>
+    <ns2:partidas>96</ns2:partidas>
+    <ns2:partidas>121</ns2:partidas>
+    <ns2:partidas>27</ns2:partidas>
+    <ns2:partidas>17</ns2:partidas>
+    <ns2:partidas>14</ns2:partidas>
+    <ns2:partidas>144</ns2:partidas>
+    <ns2:partidas>73</ns2:partidas>
+    <ns2:partidas>15</ns2:partidas>
+    <ns2:partidas>139</ns2:partidas>
+    <ns2:partidas>48</ns2:partidas>
+    <ns2:partidas>94</ns2:partidas>
+    <ns2:partidas>200</ns2:partidas>
+    <ns2:partidas>11</ns2:partidas>
+    <ns2:partidas>146</ns2:partidas>
+    <ns2:partidas>150</ns2:partidas>
+    <ns2:partidas>4</ns2:partidas>
+    <ns2:partidas>49</ns2:partidas>
+    <ns2:partidas>153</ns2:partidas>
+    <ns2:partidas>175</ns2:partidas>
+    <ns2:partidas>119</ns2:partidas>
+    <ns2:partidas>198</ns2:partidas>
+    <ns2:partidas>142</ns2:partidas>
+    <ns2:partidas>75</ns2:partidas>
+    <ns2:partidas>145</ns2:partidas>
+    <ns2:partidas>199</ns2:partidas>
+    <ns2:partidas>3</ns2:partidas>
+    <ns2:partidas>197</ns2:partidas>
+    <ns2:partidas>118</ns2:partidas>
+    <ns2:partidas>155</ns2:partidas>
+    <ns2:partidas>178</ns2:partidas>
+    <ns2:partidas>196</ns2:partidas>
+    <ns2:partidas>164</ns2:partidas>
+    <ns2:partidas>162</ns2:partidas>
+    <ns2:partidas>161</ns2:partidas>
+    <ns2:partidas>117</ns2:partidas>
+    <ns2:partidas>151</ns2:partidas>
+    <ns2:partidas>195</ns2:partidas>
+    <ns2:partidas>160</ns2:partidas>
+    <ns2:partidas>163</ns2:partidas>
+    <ns2:partidas>35</ns2:partidas>
+    <ns2:partidas>159</ns2:partidas>
+    <ns2:partidas>93</ns2:partidas>
+    <ns2:partidas>116</ns2:partidas>
+    <ns2:partidas>172</ns2:partidas>
+    <ns2:partidas>97</ns2:partidas>
+    <ns2:partidas>194</ns2:partidas>
+    <ns2:partidas>40</ns2:partidas>
+    <ns2:partidas>171</ns2:partidas>
+    <ns2:partidas>92</ns2:partidas>
+    <ns2:partidas>170</ns2:partidas>
+    <ns2:partidas>85</ns2:partidas>
+    <ns2:partidas>137</ns2:partidas>
+    <ns2:partidas>168</ns2:partidas>
+    <ns2:partidas>90</ns2:partidas>
+    <ns2:partidas>91</ns2:partidas>
+    <ns2:partidas>18</ns2:partidas>
+    <ns2:partidas>138</ns2:partidas>
+    <ns2:partidas>57</ns2:partidas>
+    <ns2:partidas>167</ns2:partidas>
+    <ns2:partidas>169</ns2:partidas>
+    <ns2:partidas>125</ns2:partidas>
+    <ns2:partidas>22</ns2:partidas>
+    <ns2:partidas>166</ns2:partidas>
+    <ns2:partidas>56</ns2:partidas>
+    <ns2:partidas>165</ns2:partidas>
+    <ns2:partidas>21</ns2:partidas>
+    <ns2:partidas>132</ns2:partidas>
+    <ns2:partidas>134</ns2:partidas>
+    <ns2:partidas>154</ns2:partidas>
+    <ns2:partidas>135</ns2:partidas>
+    <ns2:partidas>190</ns2:partidas>
+    <ns2:partidas>12</ns2:partidas>
+    <ns2:partidas>39</ns2:partidas>
+    <ns2:partidas>13</ns2:partidas>
+    <ns2:partidas>148</ns2:partidas>
+    <ns2:partidas>52</ns2:partidas>
+    <ns2:partidas>25</ns2:partidas>
+    <ns2:partidas>10</ns2:partidas>
+    <ns2:partidas>136</ns2:partidas>
+    <ns2:partidas>20</ns2:partidas>
+    <ns2:partidas>177</ns2:partidas>
+    <ns2:partidas>86</ns2:partidas>
+    <ns2:partidas>84</ns2:partidas>
+    <ns2:partidas>1</ns2:partidas>
+    <ns2:partidas>82</ns2:partidas>
+    <ns2:partidas>47</ns2:partidas>
+    <ns2:partidas>54</ns2:partidas>
+    <ns2:partidas>51</ns2:partidas>
+    <ns2:partidas>176</ns2:partidas>
+    <ns2:partidas>76</ns2:partidas>
+    <ns2:partidas>55</ns2:partidas>
+    <ns2:partidas>19</ns2:partidas>
+    <ns2:partidas>156</ns2:partidas>
+    <ns2:partidas>126</ns2:partidas>
+    <ns2:partidas>53</ns2:partidas>
+    <ns2:partidas>71</ns2:partidas>
+    <ns2:partidas>50</ns2:partidas>
+    <ns2:partidas>141</ns2:partidas>
+    <ns2:partidas>127</ns2:partidas>
+    <ns2:partidas>187</ns2:partidas>
+    <ns2:partidas>186</ns2:partidas>
+    <ns2:partidas>67</ns2:partidas>
+    <ns2:partidas>108</ns2:partidas>
+    <ns2:partidas>43</ns2:partidas>
+    <ns2:partidas>112</ns2:partidas>
+    <ns2:partidas>143</ns2:partidas><ns2:partidas>174</ns2:partidas><ns2:partidas>2</ns2:partidas><ns2:partidas>185</ns2:partidas><ns2:partidas>157</ns2:partidas><ns2:partidas>107</ns2:partidas><ns2:partidas>81</ns2:partidas><ns2:partidas>68</ns2:partidas><ns2:partidas>173</ns2:partidas><ns2:partidas>28</ns2:partidas><ns2:partidas>131</ns2:partidas><ns2:partidas>184</ns2:partidas><ns2:partidas>111</ns2:partidas><ns2:partidas>106</ns2:partidas><ns2:partidas>183</ns2:partidas><ns2:partidas>110</ns2:partidas><ns2:partidas>192</ns2:partidas><ns2:partidas>180</ns2:partidas><ns2:partidas>182</ns2:partidas><ns2:partidas>133</ns2:partidas><ns2:partidas>105</ns2:partidas><ns2:partidas>66</ns2:partidas><ns2:partidas>101</ns2:partidas><ns2:partidas>69</ns2:partidas><ns2:partidas>189</ns2:partidas><ns2:partidas>37</ns2:partidas><ns2:partidas>193</ns2:partidas><ns2:partidas>181</ns2:partidas><ns2:partidas>191</ns2:partidas><ns2:partidas>109</ns2:partidas><ns2:partidas>26</ns2:partidas><ns2:partidas>89</ns2:partidas><ns2:partidas>128</ns2:partidas><ns2:partidas>77</ns2:partidas><ns2:partidas>104</ns2:partidas><ns2:partidas>129</ns2:partidas><ns2:partidas>65</ns2:partidas><ns2:partidas>41</ns2:partidas><ns2:partidas>100</ns2:partidas><ns2:partidas>99</ns2:partidas><ns2:partidas>130</ns2:partidas><ns2:partidas>61</ns2:partidas><ns2:partidas>98</ns2:partidas><ns2:partidas>62</ns2:partidas><ns2:partidas>70</ns2:partidas><ns2:partidas>38</ns2:partidas><ns2:partidas>83</ns2:partidas><ns2:partidas>9</ns2:partidas><ns2:partidas>72</ns2:partidas><ns2:partidas>88</ns2:partidas><ns2:partidas>103</ns2:partidas><ns2:partidas>124</ns2:partidas><ns2:partidas>102</ns2:partidas><ns2:partidas>152</ns2:partidas><ns2:partidas>42</ns2:partidas><ns2:partidas>123</ns2:partidas><ns2:partidas>114</ns2:partidas><ns2:partidas>140</ns2:partidas><ns2:partidas>58</ns2:partidas><ns2:partidas>60</ns2:partidas><ns2:partidas>33</ns2:partidas><ns2:partidas>8</ns2:partidas><ns2:partidas>115</ns2:partidas><ns2:partidas>32</ns2:partidas><ns2:partidas>87</ns2:partidas><ns2:partidas>23</ns2:partidas><ns2:partidas>34</ns2:partidas><ns2:partidas>46</ns2:partidas><ns2:partidas>80</ns2:partidas>
+    <ns2:contenedores>
+        <ns2:identificador>MLCU2572903</ns2:identificador>
+        <ns2:tipoContenedor>
+            <ns2:clave>1</ns2:clave>
+            <ns2:descripcion>CONTENEDOR ESTANDAR 20</ns2:descripcion>
+        </ns2:tipoContenedor>
+    </ns2:contenedores></ns2:pedimento>
+</ns2:consultarPedimentoCompletoRespuesta>
+</S:Body>
+</S:Envelope>--%>

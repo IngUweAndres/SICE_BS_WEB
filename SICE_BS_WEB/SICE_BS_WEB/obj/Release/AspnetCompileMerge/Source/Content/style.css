@@ -1,0 +1,219 @@
+﻿body {
+    background-color: #f9f8f8;
+}
+
+.background-login {
+    position: fixed;
+    background-image: url("../img/warehouse.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    filter: brightness(90%) blur(2px);
+    -webkit-filter: brightness(90%) blur(2px);
+}
+
+.login {
+    box-shadow: 5px 5px 20px 0px rgba(0,0,0, 1);
+}
+
+.navbar {
+    border: none;
+    margin-bottom: 10px;
+}
+
+.header {
+    background-color: #03ACE9;
+}
+
+.footer {
+    background-color: #f9f8f8;
+}
+
+.header .navbar-nav > li > a {
+    color: #f9f8f8;
+}
+
+.header .navbar-nav > li:hover > a {
+    color: #D3D3D3;
+    background-color: #039DD4;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:focus,
+.navbar-inverse .navbar-nav > .open > a:hover {
+    background-color: #038DBF;
+}
+
+.dropdown-menu > li > a:hover {
+    color: #f9f8f8;
+    background-color: #03ACE9;
+}
+
+.navbar-inverse {
+    background-color: none;
+}
+
+.btn {
+    /*padding: 4px 8px;*/
+}
+
+.btn-primary {
+    background-color: #03ACE9 !important;
+    border-color: #039DD4 !important;
+    color: #fff !important;
+}
+
+    .btn-primary:hover {
+        background-color: #037EAA !important;
+        border-color: #026E95 !important;
+        color: #f9f8f8 !important;
+    }
+
+    .btn-primary:active:focus {
+        background-color: #024F6A !important;
+        border-color: #023F55 !important;
+        color: #fff !important;
+    }
+
+
+.dropdown .dropdown-menu {
+    display: block;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.1s linear;
+}
+
+.dropdown:hover .dropdown-menu, .dropdown:active .dropdown-menu {
+    visibility: visible;
+    opacity: 1;
+}
+
+.navbar-brand {
+    padding: 0;
+    line-height: 50px;
+}
+
+    .navbar-brand > img {
+        display: inline-block;
+        height: 2em;
+    }
+
+
+.brand-indar:hover > a {
+    background-color: #03ACE9 !important;
+}
+
+.brand-indar > a {
+    display: inline-block !important;
+    padding: 0 !important;
+    line-height: 50px !important;
+}
+
+    .brand-indar > a > img {
+        height: 50px;
+    }
+
+.background-acercade {
+    position: fixed;
+    background-image: url("../img/almacen.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    filter: brightness(90%) blur(2px);
+    -webkit-filter: brightness(90%) blur(2px);
+    top: 0;
+}
+
+.panel {
+    margin-bottom: 0 !important;
+    border-color: rgba(255,255,255,0.5);
+    overflow: hidden;
+}
+
+.panel-primary {
+    border-color: #039DD4;
+    overflow: hidden;
+}
+
+    .panel-primary > .panel-heading {
+        color: #fff;
+        background-color: #03ACE9;
+        border-color: #03ACE9;
+    }
+
+.table-responsive {
+    overflow: hidden;
+    border: none;
+}
+
+.acercade .panel-body {
+    /*padding: 2em;*/
+}
+
+.inaction-logo > img, .dataware-logo > img {
+    height: 8em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 !important;
+}
+
+.label-data {
+    color: #E68D25;
+}
+
+.rgCommandCell {
+    padding: 5px !important;
+}
+
+.RadGrid_Bootstrap {
+    outline: none !important;
+    width: auto !important;
+}
+
+.rgFilterRow .riSingle .riTextBox {
+    height: 34px !important;
+}
+
+.RadGrid .rgFilterRow > td {
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    padding-right: 44px !important;
+    padding-left: 10px !important;
+    text-align: center !important;
+}
+
+.RadPicker {
+    width: auto !important;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.RadGrid_Bootstrap .rgSelectedRow > td {
+    color: #f9f8f8 !important;
+    background: #9e9e9e !important;
+}
+
+.panel-title {
+    font-size: 14px !important;
+}
+
+@media screen and (min-width:768px) {
+    .section-white {
+        padding: 1.5em 0;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .container {
+        max-width: 920px;
+    }
+}

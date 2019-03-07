@@ -1,0 +1,14 @@
+﻿MAPSA_PRUEBA=Data Source=184.107.73.107,1433;Initial Catalog=MANANTIALES_PVU_FS_PRUEBAS;Persist Security Info=True;User ID=sa;Password=CPHjdMO1iTPn+dWs
+MAPSA_Prub_Ema=Data Source=198.72.111.164,1910;Initial Catalog=demoprasad_pvu_fs;Persist Security Info=True;User ID=sa;Password=Lmorante01
+MAPSA=Data Source=184.107.73.107,1433;Initial Catalog=MANANTIALES_PVU_FS;Persist Security Info=True;User ID=sa;Password=CPHjdMO1iTPn+dWs
+IEBM=Data Source=184.107.73.107,1433;Initial Catalog=EMBOTELLADORA_PVU_FS;Persist Security Info=True;User ID=sa;Password=CPHjdMO1iTPn+dWs
+Bebidas=Data Source=184.107.73.107,1433;Initial Catalog=BEBIDAS_P_PVU_FS;Persist Security Info=True;User ID=sa;Password=CPHjdMO1iTPn+dWs
+vicrila_pvu_fs=Data Source=198.72.112.86,1910;Initial Catalog=vicrila_pvu_fs;Persist Security Info=True;User ID=sa;Password=Lmorante01
+MAGNA=Data Source=184.107.73.107,1433;Initial Catalog=MAGNA_PVU_FS;Persist Security Info=True;User ID=sa;Password=CPHjdMO1iTPn+dWs
+hilrom=Data Source=184.107.73.107,1433;Initial Catalog=hilrom_PVU_FS;Persist Security Info=True;User ID=sa;Password=CPHjdMO1iTPn+dWs
+User ID=sa;Password=Lmorante01;Data Source=108.163.139.80\SQLEXPRESS2012,1226;Initial Catalog=TGAS_PVU_FS
+IEM=Data Source=108.163.139.80\SQLEXPRESS2012,1226;Initial Catalog=MONARCA_PVU_FS;Persist Security Info=True;User ID=sa;Password=Lmorante01
+IMG=Data Source=108.163.139.80\SQLEXPRESS2012,1226;Initial Catalog=MARINA_GOLFO_PVU_FS;Persist Security Info=True;User ID=sa;Password=Lmorante01
+EOM=Data Source=108.163.139.80\SQLEXPRESS2012,1226;Initial Catalog=ENERGIA_OCCIDENTE_PVU_FS;Persist Security Info=True;User ID=sa;Password=Lmorante01
+TGNH=Data Source=108.163.139.80\SQLEXPRESS2012,1226;Initial Catalog=TGAS_PVU_FS;Persist Security Info=True;User ID=sa;Password=Lmorante01
+BATZ=Data Source=198.72.112.86,1910;Initial Catalog=BATZ_pvu_fs;Persist Security Info=True;User ID=sa;Password=Lmorante01

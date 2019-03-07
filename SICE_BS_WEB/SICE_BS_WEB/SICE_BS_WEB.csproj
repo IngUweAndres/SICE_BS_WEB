@@ -1,0 +1,1122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{323A25CB-1039-4833-AB54-740DEB1C079F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SICE_BS_WEB</RootNamespace>
+    <AssemblyName>SICE_BS_WEB</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication>enabled</IISExpressAnonymousAuthentication>
+    <IISExpressWindowsAuthentication>disabled</IISExpressWindowsAuthentication>
+    <IISExpressUseClassicPipelineMode>false</IISExpressUseClassicPipelineMode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PublishDatabaseSettings>
+      <Objects>
+        <ObjectGroup Name="db" Order="1">
+          <Destination Path="Data Source=DESKTOP-BTTVDPU\SQLEXPRESS%3bInitial Catalog=MARUBENI_ITOUCH_PVU_FS%3bUser ID=sa%3bPassword=Lmorante01" />
+        </ObjectGroup>
+      </Objects>
+    </PublishDatabaseSettings>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=17.1.0.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AjaxControlToolkit.17.1.0.0\lib\net40\AjaxControlToolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v17.1.Core, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Charts.v17.1.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.CodeParser.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Data.v17.1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DataAccess.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DataAccess.v17.1.UI, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.DataAccess.v17.1.UI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Office.v17.1.Core, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Office.v17.1.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Pdf.v17.1.Core, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.PivotGrid.v17.1.Core, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v17.1.Core, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Printing.v17.1.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v17.1.Core, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.RichEdit.v17.1.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Sparkline.v17.1.Core, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Web.ASPxThemes.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Web.ASPxThemes.v17.1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Web.Bootstrap.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Web.Bootstrap.v17.1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Web.Resources.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Web.Resources.v17.1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Web.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Web.v17.1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Xpo.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraCharts.v17.1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v17.1.Extensions, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraCharts.v17.1.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v17.1.UI, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraCharts.v17.1.UI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v17.1.Web, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraCharts.v17.1.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraEditors.v17.1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGauges.v17.1.Core, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraPrinting.v17.1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraReports.v17.1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v17.1.Web, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraReports.v17.1.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="QRCoder, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\AjaxControlToolkit.dll" />
+    <Content Include="bin\Conexion.txt" />
+    <Content Include="bin\DevExpress.Charts.v17.1.Core.dll" />
+    <Content Include="bin\DevExpress.Data.v17.1.dll" />
+    <Content Include="bin\DevExpress.DataAccess.v17.1.dll" />
+    <Content Include="bin\DevExpress.DataAccess.v17.1.UI.dll" />
+    <Content Include="bin\DevExpress.Office.v17.1.Core.dll" />
+    <Content Include="bin\DevExpress.Office.v17.1.Core.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\DevExpress.Printing.v17.1.Core.dll" />
+    <Content Include="bin\DevExpress.Printing.v17.1.Core.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\DevExpress.RichEdit.v17.1.Core.dll" />
+    <Content Include="bin\DevExpress.RichEdit.v17.1.Core.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\DevExpress.Web.ASPxThemes.v17.1.dll" />
+    <Content Include="bin\DevExpress.Web.Bootstrap.v17.1.dll" />
+    <Content Include="bin\DevExpress.Web.Resources.v17.1.dll" />
+    <Content Include="bin\DevExpress.Web.v17.1.dll" />
+    <Content Include="bin\DevExpress.Web.v17.1.xml">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\DevExpress.Xpo.v17.1.xml" />
+    <Content Include="bin\DevExpress.XtraCharts.v17.1.dll" />
+    <Content Include="bin\DevExpress.XtraCharts.v17.1.Extensions.dll" />
+    <Content Include="bin\DevExpress.XtraCharts.v17.1.UI.dll" />
+    <Content Include="bin\DevExpress.XtraCharts.v17.1.Web.dll" />
+    <Content Include="bin\DevExpress.XtraCharts.v17.1.Web.xml" />
+    <Content Include="bin\DevExpress.XtraCharts.v17.1.Wizard.dll" />
+    <Content Include="bin\DevExpress.XtraCharts.v17.1.Wizard.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\DevExpress.XtraEditors.v17.1.dll" />
+    <Content Include="bin\DevExpress.XtraPrinting.v17.1.dll" />
+    <Content Include="bin\DevExpress.XtraPrinting.v17.1.xml" />
+    <Content Include="bin\DevExpress.XtraReports.v17.1.dll" />
+    <Content Include="bin\DevExpress.XtraReports.v17.1.Extensions.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\DevExpress.XtraReports.v17.1.Web.dll" />
+    <Content Include="bin\QRCoder.dll" />
+    <Content Include="bin\SICE_BS_WEB.dll" />
+    <Content Include="bin\SICE_BS_WEB.pdb" />
+    <Content Include="Content\bootstrap-select.css" />
+    <Content Include="Content\bootstrap-select.min.css" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\scrolling-nav.css" />
+    <Content Include="Content\sticky-footer.css" />
+    <Content Include="Content\style.css" />
+    <Content Include="Content\glyphicons.css" />
+    <Content Include="Content\style_prub.txt" />
+    <Content Include="Content\submenu.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="favicon1.ico" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\icomoon.svg" />
+    <Content Include="img\almacen.jpeg" />
+    <Content Include="img\iconos\001-warehouse.png" />
+    <Content Include="img\iconos\002-taxes.png" />
+    <Content Include="img\iconos\006-salary.png" />
+    <Content Include="img\iconos\009-consulting.png" />
+    <Content Include="img\iconos\010-office.png" />
+    <Content Include="img\iconos\012-meeting.png" />
+    <Content Include="img\iconos\013-clipboard.png" />
+    <Content Include="img\iconos\014-globalization.png" />
+    <Content Include="img\iconos\015-financial.png" />
+    <Content Include="img\iconos\017-employee-1.png" />
+    <Content Include="img\iconos\018-employee.png" />
+    <Content Include="img\iconos\020-data-analysis.png" />
+    <Content Include="img\iconos\025-folder.png" />
+    <Content Include="img\iconos\capturas_ch.png" />
+    <Content Include="img\iconos\contract.png" />
+    <Content Include="img\iconos\ico_cug.png" />
+    <Content Include="img\iconos\ico_cug_amarillo.png" />
+    <Content Include="img\iconos\ico_cug_amarillo1.png" />
+    <Content Include="img\iconos\ico_cug_azul.png" />
+    <Content Include="img\iconos\ico_cug_azul1.png" />
+    <Content Include="img\iconos\ico_cug_rojo.png" />
+    <Content Include="img\iconos\ico_cug_rojo1.png" />
+    <Content Include="img\iconos\ico_cug_verde.png" />
+    <Content Include="img\iconos\ico_cug_verde1.png" />
+    <Content Include="img\iconos\ico_cu_amarillo.png" />
+    <Content Include="img\iconos\ico_cu_azul.png" />
+    <Content Include="img\iconos\ico_cu_con.png" />
+    <Content Include="img\iconos\ico_cu_rojo.png" />
+    <Content Include="img\iconos\ico_cu_sin.png" />
+    <Content Include="img\iconos\ico_cu_verde.png" />
+    <Content Include="img\iconos\ico_doc.png" />
+    <Content Include="img\iconos\ico_doc1.png" />
+    <Content Include="img\iconos\ico_ed.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\iconos\ico_engrane.png" />
+    <Content Include="img\iconos\ico_exdi.png" />
+    <Content Include="img\iconos\ico_mayor_que.png" />
+    <Content Include="img\iconos\ico_mayor_que_blanco.png" />
+    <Content Include="img\iconos\ico_menor_que.png" />
+    <Content Include="img\iconos\ico_menor_que_blanco.png" />
+    <Content Include="img\iconos\ico_zip.png" />
+    <Content Include="img\iconos\Impresora_ch.png" />
+    <Content Include="img\iconos\mini_error.gif" />
+    <Content Include="img\iconos\sign_mas.png" />
+    <Content Include="img\iconos\sign_menos.png" />
+    <Content Include="img\iconos\x_edit.png" />
+    <Content Include="img\iconos\x_exis.png" />
+    <Content Include="img\iconos\x_guion.png" />
+    <Content Include="img\iconos\x_paloma.png" />
+    <Content Include="img\iconos\x_reloj.png" />
+    <Content Include="img\inaction_letters_white.png" />
+    <Content Include="img\logo.jpg" />
+    <Content Include="img\logosac.png" />
+    <Content Include="img\logo_sice.png" />
+    <Content Include="img\refresh.gif" />
+    <Content Include="img\sice.png" />
+    <Content Include="img\warehouse.jpg" />
+    <Content Include="Presentacion\AcercaDe.aspx" />
+    <Content Include="Presentacion\ExpedienteDigital.aspx" />
+    <Content Include="Presentacion\IA_ManifestacionValor.aspx" />
+    <Content Include="Presentacion\ImagenLogo.aspx" />
+    <Content Include="Presentacion\Colores.aspx" />
+    <Content Include="Presentacion\CargasPeca.aspx" />
+    <Content Include="Presentacion\Cat_RepresentanteLegal.aspx" />
+    <Content Include="Presentacion\Cat_TiposDocumentos.aspx" />
+    <Content Include="Presentacion\ControlActivoFijo.aspx" />
+    <Content Include="Presentacion\Cat_TiposActivoFijo.aspx" />
+    <Content Include="Presentacion\Cat_Autorizaciones.aspx" />
+    <Content Include="Presentacion\Cat_TiposArchivos.aspx" />
+    <Content Include="Presentacion\IA_HojaCalculo.aspx" />
+    <Content Include="Presentacion\Logo\logo_derecho.bmp" />
+    <Content Include="Presentacion\Logo\logo_izquierdo.bmp" />
+    <Content Include="Presentacion\Logo\sice_m3.jpg" />
+    <Content Include="Presentacion\NumeroParte.aspx" />
+    <Content Include="Presentacion\Temp\sice_m3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Presentacion\VentanillaUnica.aspx" />
+    <Content Include="Presentacion\Documentos.aspx" />
+    <Content Include="Presentacion\Cat_Perfiles.aspx" />
+    <Content Include="Presentacion\Default.aspx" />
+    <Content Include="Presentacion\IA_CuentasGasto.aspx" />
+    <Content Include="Presentacion\IV_ActivoFijo.aspx" />
+    <Content Include="Presentacion\DescargaExpediente.aspx" />
+    <Content Include="Presentacion\IV_Edocuments.aspx" />
+    <Content Include="Presentacion\IV_CovePedimento.aspx" />
+    <Content Include="Presentacion\IA_CVDT.aspx" />
+    <Content Include="Presentacion\IA_DTA.aspx" />
+    <Content Include="Presentacion\ico_backward_black.png" />
+    <Content Include="Presentacion\ico_forward_black.png" />
+    <Content Include="Presentacion\ico_gris.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Presentacion\ico_verde.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Presentacion\IA_Diot.aspx" />
+    <Content Include="Presentacion\IA_ReporteAnual.aspx" />
+    <Content Include="Presentacion\IG_CasosPedimento.aspx" />
+    <Content Include="Presentacion\IG_CasosPartida.aspx" />
+    <Content Include="Presentacion\IG_ContribucionesPartidas.aspx" />
+    <Content Include="Presentacion\IG_ContribucionesPorPedimento.aspx" />
+    <Content Include="Presentacion\IG_ComercioExterior.aspx" />
+    <Content Include="Presentacion\IG_CadenaRectificaciones.aspx" />
+    <Content Include="Presentacion\Cat_RFC.aspx" />
+    <Content Include="Presentacion\IG_TasasPartida.aspx" />
+    <Content Include="Presentacion\IG_StatusPDFPedimento.aspx" />
+    <Content Include="Presentacion\IG_ValorAgregadoMaquila.aspx" />
+    <Content Include="Presentacion\IG_EstadoCuenta.aspx" />
+    <Content Include="Presentacion\IG_Documentales.aspx" />
+    <Content Include="Presentacion\IG_Impuestos.aspx" />
+    <Content Include="Presentacion\IG_DiferenciasContribucionesPedimento.aspx" />
+    <Content Include="Presentacion\IG_Rectificaciones.aspx" />
+    <Content Include="Presentacion\IG_ObservacionesPartidas.aspx" />
+    <Content Include="Presentacion\IG_TasasContribucionesPartidas.aspx" />
+    <Content Include="Presentacion\IG_CuentasAduanerasGarantia.aspx" />
+    <Content Include="Presentacion\IG_DescargoMercancias.aspx" />
+    <Content Include="Presentacion\IG_CuentasAduanerasGarantiaPedimento.aspx" />
+    <Content Include="Presentacion\IG_PermisosPartida.aspx" />
+    <Content Include="Presentacion\IG_Partidas.aspx" />
+    <Content Include="Presentacion\IG_DestinatarioMercancia.aspx" />
+    <Content Include="Presentacion\IG_ObservacionesPedimento.aspx" />
+    <Content Include="Presentacion\IG_ContribucionesDelPedimento.aspx" />
+    <Content Include="Presentacion\IG_TasasPedimento.aspx" />
+    <Content Include="Presentacion\IG_FechasPedimento.aspx" />
+    <Content Include="Presentacion\IG_Facturas.aspx" />
+    <Content Include="Presentacion\IG_Contenedores.aspx" />
+    <Content Include="Presentacion\IG_Guias.aspx" />
+    <Content Include="Presentacion\IG_MercanciaDatosVehiculo.aspx" />
+    <Content Include="Presentacion\IG_TransporteMercancia.aspx" />
+    <Content Include="Presentacion\IG_DatosGenerales.aspx" />
+    <Content Include="Presentacion\Login.aspx" />
+    <Content Include="Presentacion\Principal.Master" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="fonts\glyphicons-regular.woff" />
+    <Content Include="fonts\glyphicons-regular.woff2" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="bin\QRCoder.dll.refresh" />
+    <None Include="bin\SICE_BS_WEB.dll.config" />
+    <Content Include="fonts\icomoon.eot" />
+    <Content Include="fonts\icomoon.ttf" />
+    <Content Include="fonts\icomoon.woff" />
+    <Content Include="Content\bootstrap-select.css.map" />
+    <Content Include="Presentacion\Cat_Usuarios.aspx" />
+    <Content Include="Presentacion\CargasDataStage.aspx" />
+    <Content Include="Scripts\bootstrap-select.js" />
+    <Content Include="Scripts\bootstrap-select.min.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Presentacion\Manual.pdf" />
+    <Content Include="Presentacion\FileDownloadHandlerMV.ashx" />
+    <Content Include="Presentacion\FileDownloadHandlerHC.ashx" />
+    <None Include="Properties\PublishProfiles\SICE.pubxml" />
+    <Content Include="Scripts\bootstrap-select.js.map" />
+    <Content Include="Scripts\.jshintrc" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="Scripts\i18n\defaults-ar_AR.js" />
+    <Content Include="Scripts\i18n\defaults-ar_AR.min.js" />
+    <Content Include="Scripts\i18n\defaults-bg_BG.js" />
+    <Content Include="Scripts\i18n\defaults-bg_BG.min.js" />
+    <Content Include="Scripts\i18n\defaults-cro_CRO.js" />
+    <Content Include="Scripts\i18n\defaults-cro_CRO.min.js" />
+    <Content Include="Scripts\i18n\defaults-cs_CZ.js" />
+    <Content Include="Scripts\i18n\defaults-cs_CZ.min.js" />
+    <Content Include="Scripts\i18n\defaults-da_DK.js" />
+    <Content Include="Scripts\i18n\defaults-da_DK.min.js" />
+    <Content Include="Scripts\i18n\defaults-de_DE.js" />
+    <Content Include="Scripts\i18n\defaults-de_DE.min.js" />
+    <Content Include="Scripts\i18n\defaults-en_US.js" />
+    <Content Include="Scripts\i18n\defaults-en_US.min.js" />
+    <Content Include="Scripts\i18n\defaults-es_CL.js" />
+    <Content Include="Scripts\i18n\defaults-es_CL.min.js" />
+    <Content Include="Scripts\i18n\defaults-es_ES.js" />
+    <Content Include="Scripts\i18n\defaults-es_ES.min.js" />
+    <Content Include="Scripts\i18n\defaults-et_EE.js" />
+    <Content Include="Scripts\i18n\defaults-et_EE.min.js" />
+    <Content Include="Scripts\i18n\defaults-eu.js" />
+    <Content Include="Scripts\i18n\defaults-eu.min.js" />
+    <Content Include="Scripts\i18n\defaults-fa_IR.js" />
+    <Content Include="Scripts\i18n\defaults-fa_IR.min.js" />
+    <Content Include="Scripts\i18n\defaults-fi_FI.js" />
+    <Content Include="Scripts\i18n\defaults-fi_FI.min.js" />
+    <Content Include="Scripts\i18n\defaults-fr_FR.js" />
+    <Content Include="Scripts\i18n\defaults-fr_FR.min.js" />
+    <Content Include="Scripts\i18n\defaults-hu_HU.js" />
+    <Content Include="Scripts\i18n\defaults-hu_HU.min.js" />
+    <Content Include="Scripts\i18n\defaults-id_ID.js" />
+    <Content Include="Scripts\i18n\defaults-id_ID.min.js" />
+    <Content Include="Scripts\i18n\defaults-it_IT.js" />
+    <Content Include="Scripts\i18n\defaults-it_IT.min.js" />
+    <Content Include="Scripts\i18n\defaults-ja_JP.js" />
+    <Content Include="Scripts\i18n\defaults-ja_JP.min.js" />
+    <Content Include="Scripts\i18n\defaults-kh_KM.js" />
+    <Content Include="Scripts\i18n\defaults-kh_KM.min.js" />
+    <Content Include="Scripts\i18n\defaults-ko_KR.js" />
+    <Content Include="Scripts\i18n\defaults-ko_KR.min.js" />
+    <Content Include="Scripts\i18n\defaults-lt_LT.js" />
+    <Content Include="Scripts\i18n\defaults-lt_LT.min.js" />
+    <Content Include="Scripts\i18n\defaults-nb_NO.js" />
+    <Content Include="Scripts\i18n\defaults-nb_NO.min.js" />
+    <Content Include="Scripts\i18n\defaults-nl_NL.js" />
+    <Content Include="Scripts\i18n\defaults-nl_NL.min.js" />
+    <Content Include="Scripts\i18n\defaults-pl_PL.js" />
+    <Content Include="Scripts\i18n\defaults-pl_PL.min.js" />
+    <Content Include="Scripts\i18n\defaults-pt_BR.js" />
+    <Content Include="Scripts\i18n\defaults-pt_BR.min.js" />
+    <Content Include="Scripts\i18n\defaults-pt_PT.js" />
+    <Content Include="Scripts\i18n\defaults-pt_PT.min.js" />
+    <Content Include="Scripts\i18n\defaults-ro_RO.js" />
+    <Content Include="Scripts\i18n\defaults-ro_RO.min.js" />
+    <Content Include="Scripts\i18n\defaults-ru_RU.js" />
+    <Content Include="Scripts\i18n\defaults-ru_RU.min.js" />
+    <Content Include="Scripts\i18n\defaults-sk_SK.js" />
+    <Content Include="Scripts\i18n\defaults-sk_SK.min.js" />
+    <Content Include="Scripts\i18n\defaults-sl_SI.js" />
+    <Content Include="Scripts\i18n\defaults-sl_SI.min.js" />
+    <Content Include="Scripts\i18n\defaults-sv_SE.js" />
+    <Content Include="Scripts\i18n\defaults-sv_SE.min.js" />
+    <Content Include="Scripts\i18n\defaults-tr_TR.js" />
+    <Content Include="Scripts\i18n\defaults-tr_TR.min.js" />
+    <Content Include="Scripts\i18n\defaults-ua_UA.js" />
+    <Content Include="Scripts\i18n\defaults-ua_UA.min.js" />
+    <Content Include="Scripts\i18n\defaults-vi_VN.js" />
+    <Content Include="Scripts\i18n\defaults-vi_VN.min.js" />
+    <Content Include="Scripts\i18n\defaults-zh_CN.js" />
+    <Content Include="Scripts\i18n\defaults-zh_CN.min.js" />
+    <Content Include="Scripts\i18n\defaults-zh_TW.js" />
+    <Content Include="Scripts\i18n\defaults-zh_TW.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.js" />
+    <Content Include="Scripts\jquery-3.1.1.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.1.1.min.map" />
+    <None Include="Web References\WebReference\IExpedienteComercioservice.wsdl" />
+    <Content Include="Web References\WebReference\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </Content>
+    <Content Include="Web References\WebReference\TExpediente.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </Content>
+    <Content Include="Web References\WebReference\TRespuesta.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </Content>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Scripts\jquery.easing.min.js" />
+    <Content Include="Scripts\jquery.js" />
+    <Content Include="Scripts\open_submenu.js" />
+    <Content Include="Scripts\scrolling-nav.js" />
+    <Content Include="Scripts\sidebar_menu.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MValor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MValor.Designer.cs">
+      <DependentUpon>MValor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocios\BoDescargaExpediente.cs" />
+    <Compile Include="Negocios\AppSetting.cs" />
+    <Compile Include="Negocios\BoNumeroParte.cs" />
+    <Compile Include="Negocios\Configuracion.cs" />
+    <Compile Include="Negocios\FileDownloadHandlerHC.ashx.cs" />
+    <Compile Include="Negocios\FileDownloadHandlerMV.ashx.cs" />
+    <Compile Include="Negocios\InformesVentanilla.cs" />
+    <Compile Include="Negocios\InformesAnalisis.cs" />
+    <Compile Include="Negocios\InformesGenerales.cs" />
+    <Compile Include="Negocios\Catalogos.cs" />
+    <Compile Include="Negocios\ConectarBD.cs" />
+    <Compile Include="Negocios\Perfiles.cs" />
+    <Compile Include="Negocios\Reportes.cs" />
+    <Compile Include="Negocios\BoDocumentos.cs" />
+    <Compile Include="Negocios\Defaul.cs" />
+    <Compile Include="Negocios\ControlExcepciones.cs" />
+    <Compile Include="Negocios\Inicio.cs" />
+    <Compile Include="Negocios\Usuarios.cs" />
+    <Compile Include="Presentacion\AcercaDe.aspx.cs">
+      <DependentUpon>AcercaDe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\AcercaDe.aspx.designer.cs">
+      <DependentUpon>AcercaDe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ANEXOYFACTURAS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ANEXOYFACTURAS.Designer.cs">
+      <DependentUpon>ANEXOYFACTURAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\ExpedienteDigital.aspx.cs">
+      <DependentUpon>ExpedienteDigital.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ExpedienteDigital.aspx.designer.cs">
+      <DependentUpon>ExpedienteDigital.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IA_ManifestacionValor.aspx.cs">
+      <DependentUpon>IA_ManifestacionValor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IA_ManifestacionValor.aspx.designer.cs">
+      <DependentUpon>IA_ManifestacionValor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\ImagenLogo.aspx.cs">
+      <DependentUpon>ImagenLogo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ImagenLogo.aspx.designer.cs">
+      <DependentUpon>ImagenLogo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Colores.aspx.cs">
+      <DependentUpon>Colores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Colores.aspx.designer.cs">
+      <DependentUpon>Colores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\CargasPeca.aspx.cs">
+      <DependentUpon>CargasPeca.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\CargasPeca.aspx.designer.cs">
+      <DependentUpon>CargasPeca.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Cat_RepresentanteLegal.aspx.cs">
+      <DependentUpon>Cat_RepresentanteLegal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Cat_RepresentanteLegal.aspx.designer.cs">
+      <DependentUpon>Cat_RepresentanteLegal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Cat_TiposDocumentos.aspx.cs">
+      <DependentUpon>Cat_TiposDocumentos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Cat_TiposDocumentos.aspx.designer.cs">
+      <DependentUpon>Cat_TiposDocumentos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\ControlActivoFijo.aspx.cs">
+      <DependentUpon>ControlActivoFijo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ControlActivoFijo.aspx.designer.cs">
+      <DependentUpon>ControlActivoFijo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Cat_TiposActivoFijo.aspx.cs">
+      <DependentUpon>Cat_TiposActivoFijo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Cat_TiposActivoFijo.aspx.designer.cs">
+      <DependentUpon>Cat_TiposActivoFijo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Cat_Autorizaciones.aspx.cs">
+      <DependentUpon>Cat_Autorizaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Cat_Autorizaciones.aspx.designer.cs">
+      <DependentUpon>Cat_Autorizaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Cat_TiposArchivos.aspx.cs">
+      <DependentUpon>Cat_TiposArchivos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Cat_TiposArchivos.aspx.designer.cs">
+      <DependentUpon>Cat_TiposArchivos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IA_HojaCalculo.aspx.cs">
+      <DependentUpon>IA_HojaCalculo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IA_HojaCalculo.aspx.designer.cs">
+      <DependentUpon>IA_HojaCalculo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\NumeroParte.aspx.cs">
+      <DependentUpon>NumeroParte.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\NumeroParte.aspx.designer.cs">
+      <DependentUpon>NumeroParte.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\VentanillaUnica.aspx.cs">
+      <DependentUpon>VentanillaUnica.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\VentanillaUnica.aspx.designer.cs">
+      <DependentUpon>VentanillaUnica.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Documentos.aspx.cs">
+      <DependentUpon>Documentos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Documentos.aspx.designer.cs">
+      <DependentUpon>Documentos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Cat_Perfiles.aspx.cs">
+      <DependentUpon>Cat_Perfiles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Cat_Perfiles.aspx.designer.cs">
+      <DependentUpon>Cat_Perfiles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IA_CuentasGasto.aspx.cs">
+      <DependentUpon>IA_CuentasGasto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IA_CuentasGasto.aspx.designer.cs">
+      <DependentUpon>IA_CuentasGasto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IV_ActivoFijo.aspx.cs">
+      <DependentUpon>IV_ActivoFijo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IV_ActivoFijo.aspx.designer.cs">
+      <DependentUpon>IV_ActivoFijo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\DescargaExpediente.aspx.cs">
+      <DependentUpon>DescargaExpediente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\DescargaExpediente.aspx.designer.cs">
+      <DependentUpon>DescargaExpediente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IV_Edocuments.aspx.cs">
+      <DependentUpon>IV_Edocuments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IV_Edocuments.aspx.designer.cs">
+      <DependentUpon>IV_Edocuments.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IV_CovePedimento.aspx.cs">
+      <DependentUpon>IV_CovePedimento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IV_CovePedimento.aspx.designer.cs">
+      <DependentUpon>IV_CovePedimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IA_Diot.aspx.cs">
+      <DependentUpon>IA_Diot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IA_Diot.aspx.designer.cs">
+      <DependentUpon>IA_Diot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IA_CVDT.aspx.cs">
+      <DependentUpon>IA_CVDT.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IA_CVDT.aspx.designer.cs">
+      <DependentUpon>IA_CVDT.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IA_DTA.aspx.cs">
+      <DependentUpon>IA_DTA.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IA_DTA.aspx.designer.cs">
+      <DependentUpon>IA_DTA.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IA_ReporteAnual.aspx.cs">
+      <DependentUpon>IA_ReporteAnual.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IA_ReporteAnual.aspx.designer.cs">
+      <DependentUpon>IA_ReporteAnual.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_CasosPedimento.aspx.cs">
+      <DependentUpon>IG_CasosPedimento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_CasosPedimento.aspx.designer.cs">
+      <DependentUpon>IG_CasosPedimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_CasosPartida.aspx.cs">
+      <DependentUpon>IG_CasosPartida.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_CasosPartida.aspx.designer.cs">
+      <DependentUpon>IG_CasosPartida.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_ContribucionesPartidas.aspx.cs">
+      <DependentUpon>IG_ContribucionesPartidas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_ContribucionesPartidas.aspx.designer.cs">
+      <DependentUpon>IG_ContribucionesPartidas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_ContribucionesPorPedimento.aspx.cs">
+      <DependentUpon>IG_ContribucionesPorPedimento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_ContribucionesPorPedimento.aspx.designer.cs">
+      <DependentUpon>IG_ContribucionesPorPedimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_ComercioExterior.aspx.cs">
+      <DependentUpon>IG_ComercioExterior.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_ComercioExterior.aspx.designer.cs">
+      <DependentUpon>IG_ComercioExterior.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_CadenaRectificaciones.aspx.cs">
+      <DependentUpon>IG_CadenaRectificaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_CadenaRectificaciones.aspx.designer.cs">
+      <DependentUpon>IG_CadenaRectificaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Cat_RFC.aspx.cs">
+      <DependentUpon>Cat_RFC.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Cat_RFC.aspx.designer.cs">
+      <DependentUpon>Cat_RFC.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_TasasPartida.aspx.cs">
+      <DependentUpon>IG_TasasPartida.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_TasasPartida.aspx.designer.cs">
+      <DependentUpon>IG_TasasPartida.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_StatusPDFPedimento.aspx.cs">
+      <DependentUpon>IG_StatusPDFPedimento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_StatusPDFPedimento.aspx.designer.cs">
+      <DependentUpon>IG_StatusPDFPedimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_ValorAgregadoMaquila.aspx.cs">
+      <DependentUpon>IG_ValorAgregadoMaquila.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_ValorAgregadoMaquila.aspx.designer.cs">
+      <DependentUpon>IG_ValorAgregadoMaquila.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_EstadoCuenta.aspx.cs">
+      <DependentUpon>IG_EstadoCuenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_EstadoCuenta.aspx.designer.cs">
+      <DependentUpon>IG_EstadoCuenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_Documentales.aspx.cs">
+      <DependentUpon>IG_Documentales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_Documentales.aspx.designer.cs">
+      <DependentUpon>IG_Documentales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_Impuestos.aspx.cs">
+      <DependentUpon>IG_Impuestos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_Impuestos.aspx.designer.cs">
+      <DependentUpon>IG_Impuestos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_DiferenciasContribucionesPedimento.aspx.cs">
+      <DependentUpon>IG_DiferenciasContribucionesPedimento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_DiferenciasContribucionesPedimento.aspx.designer.cs">
+      <DependentUpon>IG_DiferenciasContribucionesPedimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_Rectificaciones.aspx.cs">
+      <DependentUpon>IG_Rectificaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_Rectificaciones.aspx.designer.cs">
+      <DependentUpon>IG_Rectificaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_ObservacionesPartidas.aspx.cs">
+      <DependentUpon>IG_ObservacionesPartidas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_ObservacionesPartidas.aspx.designer.cs">
+      <DependentUpon>IG_ObservacionesPartidas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_TasasContribucionesPartidas.aspx.cs">
+      <DependentUpon>IG_TasasContribucionesPartidas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_TasasContribucionesPartidas.aspx.designer.cs">
+      <DependentUpon>IG_TasasContribucionesPartidas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_CuentasAduanerasGarantia.aspx.cs">
+      <DependentUpon>IG_CuentasAduanerasGarantia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_CuentasAduanerasGarantia.aspx.designer.cs">
+      <DependentUpon>IG_CuentasAduanerasGarantia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_DescargoMercancias.aspx.cs">
+      <DependentUpon>IG_DescargoMercancias.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_DescargoMercancias.aspx.designer.cs">
+      <DependentUpon>IG_DescargoMercancias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_CuentasAduanerasGarantiaPedimento.aspx.cs">
+      <DependentUpon>IG_CuentasAduanerasGarantiaPedimento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_CuentasAduanerasGarantiaPedimento.aspx.designer.cs">
+      <DependentUpon>IG_CuentasAduanerasGarantiaPedimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_PermisosPartida.aspx.cs">
+      <DependentUpon>IG_PermisosPartida.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_PermisosPartida.aspx.designer.cs">
+      <DependentUpon>IG_PermisosPartida.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_Partidas.aspx.cs">
+      <DependentUpon>IG_Partidas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_Partidas.aspx.designer.cs">
+      <DependentUpon>IG_Partidas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_DestinatarioMercancia.aspx.cs">
+      <DependentUpon>IG_DestinatarioMercancia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_DestinatarioMercancia.aspx.designer.cs">
+      <DependentUpon>IG_DestinatarioMercancia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_ObservacionesPedimento.aspx.cs">
+      <DependentUpon>IG_ObservacionesPedimento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_ObservacionesPedimento.aspx.designer.cs">
+      <DependentUpon>IG_ObservacionesPedimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_ContribucionesDelPedimento.aspx.cs">
+      <DependentUpon>IG_ContribucionesDelPedimento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_ContribucionesDelPedimento.aspx.designer.cs">
+      <DependentUpon>IG_ContribucionesDelPedimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_TasasPedimento.aspx.cs">
+      <DependentUpon>IG_TasasPedimento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_TasasPedimento.aspx.designer.cs">
+      <DependentUpon>IG_TasasPedimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_FechasPedimento.aspx.cs">
+      <DependentUpon>IG_FechasPedimento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_FechasPedimento.aspx.designer.cs">
+      <DependentUpon>IG_FechasPedimento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_Facturas.aspx.cs">
+      <DependentUpon>IG_Facturas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_Facturas.aspx.designer.cs">
+      <DependentUpon>IG_Facturas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_Contenedores.aspx.cs">
+      <DependentUpon>IG_Contenedores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_Contenedores.aspx.designer.cs">
+      <DependentUpon>IG_Contenedores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_Guias.aspx.cs">
+      <DependentUpon>IG_Guias.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_Guias.aspx.designer.cs">
+      <DependentUpon>IG_Guias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_MercanciaDatosVehiculo.aspx.cs">
+      <DependentUpon>IG_MercanciaDatosVehiculo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_MercanciaDatosVehiculo.aspx.designer.cs">
+      <DependentUpon>IG_MercanciaDatosVehiculo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_TransporteMercancia.aspx.cs">
+      <DependentUpon>IG_TransporteMercancia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_TransporteMercancia.aspx.designer.cs">
+      <DependentUpon>IG_TransporteMercancia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\IG_DatosGenerales.aspx.cs">
+      <DependentUpon>IG_DatosGenerales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\IG_DatosGenerales.aspx.designer.cs">
+      <DependentUpon>IG_DatosGenerales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Principal.Master.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Principal.Master.designer.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Cat_Usuarios.aspx.cs">
+      <DependentUpon>Cat_Usuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Cat_Usuarios.aspx.designer.cs">
+      <DependentUpon>Cat_Usuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\CargasDataStage.aspx.cs">
+      <DependentUpon>CargasDataStage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\CargasDataStage.aspx.designer.cs">
+      <DependentUpon>CargasDataStage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="XtraReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XtraReport1.Designer.cs">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\WebReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ANEXOYFACTURAS.resx">
+      <DependentUpon>ANEXOYFACTURAS.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MValor.resx">
+      <DependentUpon>MValor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraReport1.resx">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\UploadTemp\" />
+    <Folder Include="Archivo\" />
+    <Folder Include="Logo\" />
+    <Folder Include="Presentacion\Temp\HC\" />
+    <Folder Include="Presentacion\Temp\MV\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://184.107.73.107:8080/wsdl/IExpedienteComercio">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\WebReference\</RelPath>
+      <UpdateFromURL>http://184.107.73.107:8080/wsdl/IExpedienteComercio</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>SICE_BS_WEB_WebReference_IExpedienteComercioservice</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>54788</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:53844/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <UserProperties UseJQuerySupport="True" UseAjaxifiedTemplates="True" />
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

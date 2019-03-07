@@ -1,0 +1,975 @@
+body {
+    /*#f9f8f8;*/
+    background-color: #FFFFFF;
+}
+
+.background-login {
+    position: fixed;
+    background-image: url("../img/warehouse.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    filter: brightness(90%) blur(2px);
+    -webkit-filter: brightness(90%) blur(2px);
+}
+
+.login {
+    box-shadow: 5px 5px 20px 0px rgba(0,0,0, 1);
+    -moz-box-shadow: 5px 5px 20px 0px rgba(0,0,0, 1);
+    -webkit-box-shadow: 5px 5px 20px 0px rgba(0,0,0, 1);
+}
+
+.navbar {
+    border: none;
+    margin-bottom: 10px;
+    border-radius: 0 !important;
+    border-bottom-left-radius: 6px !important;
+    border-bottom-right-radius: 6px !important;
+    color: #000;
+}
+
+.header {
+    /*color: #000;*/
+    /*background-color: #fecf71;*/                                                       /*Barra de menu background color en el login responsive y normal, predomina primero navbar-inverse */
+    border-bottom: 1px solid #eee;
+}
+
+.footer {
+    background-color: #f9f8f8;
+}
+
+
+.header .navbar-nav > li > a {
+    color: #5E5E5E;
+}
+
+.header .navbar-nav > li:hover > a { 
+/*T*/ color: #000000 !important; 
+/*S*/ background-color: #FFCC00;                                                        /*Titulo menu backgroundcolor hover,clic, selected grupo A1 Sin responsive, solo normal*/
+}
+
+.header .navbar-nav > li:hover > a:visited {
+/*T*/ color: #000000 !important;      
+/*S*/ background-color: #FFCC00;                                                        /*Titulo menu backgroundcolor hover,clic, selected grupo A1 Sin responsive, solo normal*/
+}
+
+.header .navbar-nav > li > a:focus {                                                    /*Titulo menu backgroundcolor hover,clic, selected grupo A1 Sin responsive, solo normal*/
+/*T*/ color: #000000; 
+/*S*/ background-color: #FFCC00; 
+}
+
+.header .navbar-nav > li > a:visited {                                                  /*Titulo menu backgroundcolor hover,clic, selected grupo A1 Sin responsive, solo normal*/
+/*T*/ color: #000000 !important;
+/*S*/ background-color: #FFCC00; 
+}
+
+
+
+/*.header .navbar-nav > a {
+     color: #FFF; 
+ }*/
+
+
+.navbar-inverse .navbar-nav
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:focus,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:visited {                                     /*Titulo menu backgroundcolor hover,clic, selected grupo A1 responsive y normal*/
+/*S*/ background-color: #FFCC00;
+/*T*/ color: #000000;
+}
+
+
+
+.navbar-inverse {
+    background-color: #F7F7F7;     /*#F7F7F7 gris claroy #F8F8F8 gris muy claro*/    /*Barra de menu background color en el login responsive y normal, predomina, despues sigue header*/
+}
+
+.btn-primary {
+/*B*/    background-color: #000080 !important;
+/*B*/    border-color: #000080 !important;
+/*BT*/    color: #FFFFFF !important;
+}
+
+.btn-primary:hover {
+/*BS*/ background-color: #FFCC00 !important;
+/*BS*/ border-color: #FFCC00 !important;
+/*BT*/ color: #FFFFFF !important;
+}
+
+.btn-primary:active:focus {
+/*BS*/ background-color: #FFCC00 !important;
+/*BS*/ border-color: #FFCC00 !important;
+/*BT*/ color: #FFFFFF !important;
+}
+
+.btn-grid {
+    background-color: #EF633A !important;
+    border-color: #EF633A !important;
+    color: #fff !important;
+}
+
+.btn-grid:hover {
+    background-color: #F99841 !important;
+    border-color: #F99841 !important;
+    color: #fff !important;
+}
+
+.btn-grid:active:focus {
+    background-color: darkorange !important;
+    border-color: darkorange !important;
+    color: #fff !important;
+}
+
+/*.dropdown .dropdown-menu {
+    display: block;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.1s linear;
+}*/
+
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form {
+    /*border-color: #F8F8F8 !important;*/
+}
+
+.navbar-inverse .navbar-toggle:hover,                                   
+.navbar-inverse .navbar-toggle:focus {  
+/*S*/ background-color: #FFCC00 !important;                               /*responsive el recuadro a al derecha (navbar-toggle)background-color*/
+/*T*/ color: #000000;
+}
+
+
+.navbar-inverse .navbar-toggle {
+    border-color: #E7E7E7 !important;                                   /*responsive el recuadro a al derecha (navbar-toggle)border-color*/
+}
+
+
+.navbar-inverse .navbar-nav .open .dropdown-menu .divider {
+/*M*/    background-color: #FFCC00;
+}
+
+.dropdown-menu {
+    background-color: #F7F7F7 !important;  /* #03ACE9*/
+}
+
+.dropdown-menu > li > a > img {
+    display: inline-block !important;
+}
+
+.dropdown-menu > li > a {
+    color: #f9f8f8 !important;
+}
+
+.navbar-nav .open .dropdown-menu {
+    border-top: 1px solid #1186B8;
+    border-bottom: 1px solid #1186B8;
+}
+
+/*.header .navbar-nav > li:hover .dropdown-InformesGenerales {
+    color: #000!Important;
+    display:block;
+    height:400px;
+    width:420px;
+    overflow:auto;
+    background-color: #03ACE9;
+    padding-left:0px;
+    padding-top:5px;
+    padding-bottom:5px;
+    list-style:none;
+     z-index:1000;      
+}*/
+
+.header .navbar-nav{
+/*M*/ background-color: #FFCC00 !important;                                                             /*Responsive titulos background-color*/
+}
+
+.header .navbar-nav > li > a:hover{
+/*S*/ background-color: #FFCC00 !important;                                                             /*Responsive titulos hover background-color*/
+/*T*/ color: #000000;
+}
+
+.header .navbar-nav > li > a:visited{
+/*S*/ background-color: #FFCC00 !important;                                                             /*Responsive titulos hover visited background-color*/
+/*T*/ color: #000000;
+}
+   
+
+.header .navbar-nav > li .dropdown-menu{
+      background-color: #FFF !important;                                                                 /*NO MOVER, Predonima, Aqui cambio el backgroundcolor de dropdown-menu normal y responsivo*/
+}
+
+.header .navbar-nav > li .dropdown-menu li:hover{
+      overflow:visible;
+/*T*/ color: #000000 !important; 
+/*S*/ background-color: #FFCC00 !important;                                                           /*Predonima, Aqui cambio el backgroundcolor al seleccionar de dropdown-menu normal y responsivo*/
+}
+.header .navbar-nav > li .dropdown-menu li > a:hover{
+      display:block;
+/*T*/ color: #000000 !important;
+      text-decoration:none;
+/*S*/ background-color: #FFCC00 !important;                                                           /*Predonima, Aqui cambio el backgroundcolor al seleccionar de dropdown-menu normal y responsivo*/
+}
+
+ul.dropdown-InformesGenerales  {
+    display:block;
+    color: #000!Important;            
+    height:400px;
+    width:420px;
+    overflow:auto;
+    background-color: #F8F8F8;
+    padding-left:0px;
+    padding-top:5px;
+    padding-bottom:5px;
+    list-style:none;
+     z-index:1000;      
+}
+
+.header .navbar-nav > li .dropdown-InformesGenerales{
+    display:none;
+    position:absolute;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+    -moz-box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+    background-color: #FFF !important; /*#F8F8F8 gris muy claro*/                                   /*Aqui cambio el backgroundcolor de dropdown-InformesGenerales normal y responsivo*/      
+}
+
+.header .navbar-nav > li .dropdown-InformesGenerales li{
+    display:block;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:20px;
+    text-align:left;
+}
+
+.header .navbar-nav > li .dropdown-InformesGenerales li:hover{                                       /*Aqui cambio el backgroundcolor al seleccionar un submenu de dropdown-InformesGenerales en responsivo y normal*/
+      overflow:hidden;
+/*T*/ color: #000000 !important; 
+/*S*/ background-color: #FFCC00 !important; 
+}
+
+.header .navbar-nav > li .dropdown-InformesGenerales li:visited{                                       /*Aqui cambio el backgroundcolor al seleccionar un submenu de dropdown-InformesGenerales en responsivo y normal*/
+      overflow:hidden;
+/*T*/ color: #000000 !important; 
+/*S*/ background-color: #FFCC00 !important; 
+}
+
+.header .navbar-nav > li .dropdown-InformesGenerales li > a{                                        /*Aqui cambio el texto al seleccionar un submenu de dropdown-InformesGenerales en responsivo y normal*/
+      display:block;
+      color: #000 !important;
+      text-decoration:none;       
+}
+
+.header .navbar-nav > li .dropdown-InformesGenerales li > a:visited{                                /*Aqui cambio el texto al seleccionar un submenu de dropdown-InformesGenerales en responsivo y normal*/
+      display:block;
+      color: #000 !important;
+      text-decoration:none;       
+}
+
+.header .navbar-nav > li .dropdown-InformesGenerales li > a:hover{                                  /*Aqui cambio el backgroundcolor al seleccionar un submenu de dropdown-InformesGenerales en responsivo y normal*/
+       display:block;
+/*T*/ color: #000000 !important;
+       text-decoration:none;
+/*S*/  background-color: #FFCC00 !important;           
+}
+
+
+ @media only screen and (max-width: 766px) {
+     .collapsing, .in {background-color: #f7f7f7; color: #555!important;}  /*#f7f7f7*/
+     .collapsing ul li a, .in ul li a {color: #555!important;}
+     .collapsing ul li a:hover, .in ul li a:hover {color: #000!important; background-color: #f7f7f7!important;} /* #E7E7E7*/
+
+     .dropdown-menu {
+         background-color: #FFF !important; /*gris muy claro*/                                /*Aqui cambio el backgroundcolor del dropdown-menu responsivo*/
+     }
+     
+     .dropdown-menu > li > a:hover {
+         /*color: #000 !important;
+         background-color: #000; #E7E7E7 gris claro
+         */
+     }
+
+     .dropdown-menu > li > a:focus {
+         /*color: #000 !important;
+         background-color: #000; #E7E7E7;*/
+     }
+
+     .dropdown-menu > li > a > img {
+         display: inline-block !important;
+     }
+
+     .dropdown-menu > li > a {
+         /*color: #000 !important;*/
+     }
+
+     .header .navbar-nav > li .dropdown-InformesGenerales {
+         position:relative; 
+         width:100%;
+         display:compact;
+         height:150px;
+         overflow:auto;
+         z-index:1000;
+         padding-top:0px;
+         padding-left:0px;
+         text-align:left;
+     }
+
+     .header .navbar-nav > li:focus .dropdown-InformesGenerales {
+         /*color: #000 !important;
+         background-color: #03ACE9;*/
+         padding-top:0px;
+         padding-left:0px;
+         text-align:left;
+     }
+
+     .header .navbar-nav > li:hover .dropdown-InformesGenerales {
+         display:none;
+         position:relative; 
+         width:100%;
+         display:block;
+         height:150px;
+         overflow:auto;
+         z-index:1000;
+         padding-top:0px;
+         padding-left:0px;
+         text-align:left;
+         /*background-color: #03ACE9;*/
+     }
+
+
+     .dropdown-InformesGenerales {                                                                  /*Aqui cambio el backgroundcolor de dropdown-InformesGenerales al hacerlo responsivo*/
+         display:none;
+         background-color: #FFF !important; /*#F8F8F8 gris muy claro*/
+         border-top: 1px solid #1186B8;
+         border-bottom: 1px solid #1186B8;
+         position:relative;
+     }
+     
+     .dropdown-InformesGenerales > li > a:hover {
+         color: #000 !important;
+         background-color: #03ACE9; /* #E7E7E7 gris claro*/
+     }
+
+     .dropdown-InformesGenerales > li > a:focus {
+         color: #000 !important;
+         background-color: #03ACE9; /* #E7E7E7 gris claro*/
+     }
+
+     .dropdown-InformesGenerales > li > a > img {
+         display: inline-block !important;
+     }
+
+     .dropdown-InformesGenerales > li > a {
+         color: #000 !important;
+
+     }         
+ }
+
+/* Es el límite para mostrar el menú al pasar el cursor, un tamaño inferior no lo muestra*/
+@media screen and (min-width:768px) {
+    .dropdown-menu {
+        background-color: #FFF !important;                                                          /*Aqui cambio el backgroundcolor de dropdown-menu*/
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        opacity: 1;
+        transition: visibility 0s, opacity 0.1s;
+    }
+
+    .dropdown-menu > li > a:hover {
+    /*T*/ color: #000000 !important;
+    /*S*/ background-color: #FFCC00;                                                             /*Aqui cambio el backgroundcolor al seleccionar un submenu de dropdown-menu*/   
+    }
+
+    .dropdown-menu > li > a > img {
+        display: inline-block !important;
+    }
+
+    .dropdown-menu > li > a {
+        color: #000 !important;
+    }
+
+    .dropdown-menu .divider {
+        background-color: #e5e5e5 !important;
+    }
+
+    .navbar-nav .open .dropdown-menu {
+        border: 0;
+    }
+
+    
+}
+
+
+.navbar-brand {
+    padding: 0 !important;
+    margin: 0 !important;
+    /*line-height: 50px;*/
+}
+
+    .navbar-brand > img {
+        height: 50px;
+    }
+
+/*.brand-indar:hover > a {
+    background-color: #03ACE9 !important;
+}
+
+.brand-indar > a {
+    display: inline-block !important;
+    padding: 0 !important;
+    line-height: 50px !important;
+}
+
+    .brand-indar > a > img {
+        height: 50px;
+    }*/
+
+.background-acercade {
+    position: fixed;
+    background-image: url("../img/almacen.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    filter: brightness(90%) blur(2px);
+    -webkit-filter: brightness(90%) blur(2px);
+    top: 0;
+}
+
+.panel {
+    margin-bottom: 0 !important;
+    border-color: rgba(255,255,255,0.5);
+    overflow: hidden;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+    -moz-box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+}
+
+.panel-title {
+    font-size: 14px !important;
+}
+
+.panel-primary {
+    border-color: #F8F8F8;
+    overflow: hidden;
+}
+
+
+.panel-primary > .panel-heading {                                                           /*Panel de Titulos de Pantallas*/
+/*BT*/   color: #FFFFFF;                                                                    /*Panel de Titulos de Pantallas color*/
+/*B*/    background-color: #000080 !important;                                              /*Panel de Titulos de Pantallas background-color*/
+/*B*/    border-color: #000080 !important;
+    border-width:1px;
+}
+
+.table-responsive {
+    overflow: hidden;
+    border: none;
+}
+
+.inaction-logo > img, .dataware-logo > img {
+    height: 8em;
+}
+
+.asp-label {
+    font-size: 12px !important;
+    margin: 5px 0px !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    /*margin: 0 !important;*/
+}
+
+.label-data {
+    color: #E68D25;
+}
+
+.btn-sm, .btn-group-sm > .btn {
+    line-height: 1.5 !important;
+}
+
+.RadGrid_Bootstrap {
+    outline: none !important;
+    width: auto !important;
+}
+
+    .RadMenu_Bootstrap,
+    .RadInput_Bootstrap .riTextBox,
+    .RadComboBox_Bootstrap .rcbInput,
+    .RadGrid_Bootstrap .rgMasterTable,
+    .RadGrid_Bootstrap .rgDetailTable,
+    .RadGrid_Bootstrap .rgGroupPanel table,
+    .RadGrid_Bootstrap .rgCommandRow table,
+    .RadGrid_Bootstrap .rgEditForm table,
+    .RadGrid_Bootstrap .rgPager table,
+    .RadGrid_Bootstrap .rgPager table .Advanced,
+    .RadComboBoxDropDown_Bootstrap,
+    .dxbs-dropdown-edit, .dxbs-combobox,
+    .popover, .tooltip {
+        font-size: 12px !important;
+    }
+
+.tooltip {
+    position: fixed !important;
+}
+
+.tooltip-inner {
+    max-width: 300px !important;
+}
+
+.RadComboBoxDropDown_Bootstrap .rcbHovered,
+.RadComboBoxDropDown_Bootstrap .rcbCheckAllItemsHovered {
+    background-color: #9E9E9E !important;
+    color: #F9F9F9 !important;
+}
+
+.ico {
+    font-size: 36px !important;
+}
+
+.RadGrid .rgFilterRow > td {
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    padding-right: 44px !important;
+    padding-left: 10px !important;
+    text-align: center !important;
+}
+
+.RadGrid_Bootstrap .rgFilter {
+    height: 28px !important;
+    background-position: -9px -4511px !important;
+}
+
+.RadComboBox_Bootstrap .rcbArrowCell a {
+    height: 28px !important;
+    background-position: -9px -60px !important;
+}
+
+.RadGrid_Bootstrap .rgPagerCell .rgPagerLabel {
+    padding: 0px 7px !important;
+    line-height: 30px !important;
+}
+
+.RadGrid_Bootstrap .rgRow > td[align="center"],
+.RadGrid_Bootstrap .rgAltRow > td[align="center"],
+.RadGrid_Bootstrap .rgEditRow > td[align="center"] {
+    padding: 0 !important;
+}
+
+.RadGrid_Bootstrap .rgRow > td,
+.RadGrid_Bootstrap .rgAltRow > td,
+.RadGrid_Bootstrap .rgEditRow > td {
+    padding: 6px 7px !important;
+    text-overflow: ellipsis !important;
+}
+
+.RadComboBox_Bootstrap .rcbInputCell,
+.RadComboBox_Bootstrap .rcbArrowCell {
+    height: 30px !important;
+}
+
+.RadPicker {
+    width: auto !important;
+}
+
+.RadPicker_Bootstrap .rcCalPopup,
+.RadPicker_Bootstrap .rcTimePopup {
+    height: 28px !important;
+    background-position: -9px -4211px !important;
+}
+
+    .RadPicker_Bootstrap .rcCalPopup:hover {
+        background-position: -59px -4211px !important;
+    }
+
+input[type="checkbox"],
+input[type="radio"] {
+    margin-top: 4px !important;
+}
+
+.rgHeader input[type="checkbox"],
+.rgHeader input[type="radio"] {
+    margin-top: 0px !important;
+}
+
+/*.RadGrid_Bootstrap .rgRow > td:first-child, 
+.RadGrid_Bootstrap .rgAltRow > td:first-child {
+    padding: 0 !important;
+}*/
+
+.rgCommandCell {
+    padding: 5px !important;
+}
+
+.form-control-feedback {
+    line-height: 31px !important;
+}
+
+.rgFilterBox {
+    height: 28px !important;
+}
+
+.RadInput_Bootstrap.riSingle .riTextBox {
+    height: 30px !important;
+}
+
+.RadGrid .rgPager .RadInput {
+    width: 50px !important;
+}
+
+#ctl00_ContentSection_RadGrid1_ctl00_ctl02_ctl03_Filter_Default,
+#ctl00_ContentSection_RadGrid1_ctl00_ctl02_ctl03_Filter_Bloqueada,
+#ctl00_ContentSection_RadGrid1_ctl00_ctl02_ctl03_Filter_Diferencia {
+    border: none !important;
+    background-color: transparent !important;
+}
+
+.multiline {
+    resize: vertical;
+}
+
+/*----------- Colores del Grid ----------- */
+.RadGrid_Bootstrap .rgGroupPanel,
+.RadGrid_Bootstrap .rgHeader,
+.RadGrid_Bootstrap .rgCommandRow,
+.RadGrid_Bootstrap th.rgResizeCol,
+.RadGrid_Bootstrap .rgHeaderWrapper,
+.RadGrid_Bootstrap .rgPagerCell,
+.RadGrid_Bootstrap .rgAltRow > td,
+.RadGrid_Bootstrap .rgFooter td {
+    background-color: #eeeeee !important;
+}
+
+.RadGrid_Bootstrap .rgSorted,
+.RadGrid_Bootstrap .rgAltRow .rgSorted {
+    background-color: #D0D0D0 !important;
+}
+
+.RadGrid_Bootstrap .rgSelectedRow > td,
+.RadGrid_Bootstrap .rgSelectedRow > .rgSorted {
+    color: #f9f8f8 !important;
+    background-color: #9e9e9e !important;
+}
+
+.RadGrid_Bootstrap .rgFiltered,
+.RadGrid_Bootstrap .rgFiltered:hover {
+    background-color: #BBBBBB !important;
+}
+
+.form-control[disabled],
+fieldset[disabled] .form-control {
+    cursor: not-allowed !important;
+}
+
+
+/*---------------------------------------- */
+
+@media screen and (min-width:768px) {
+    .section-white {
+        padding: 1.5em 0;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .container {
+        max-width: 920px;
+    }
+}
+
+/*---------------------------------------- */
+/*Grupo SAC*/
+/*---------------------------------------- */
+
+.colorgraph {
+    height: 7px;
+    border-top: 0;
+    background: #c4e17f;
+    border-radius: 5px;
+    background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #03ACE9 37.5%, #03ACE9 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #03ACE9 37.5%, #03ACE9 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #03ACE9 37.5%, #03ACE9 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #03ACE9 37.5%, #03ACE9 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+}
+
+.color_invisible{
+    color: transparent !important;
+}
+
+.bordes_curvos{
+    border-radius: 0px 5px 5px 0px;
+     -moz-border-radius: 5px 5px 5px 5px;
+    -khtml-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    overflow: hidden !important;
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;                 
+}
+
+.bordes_curvos_izquierda{
+    border-radius: 5px 0px 0px 5px;
+     -moz-border-radius: 5px 0px 0px 5px;
+    -khtml-border-radius: 5px 0px 0px 5px;
+    -webkit-border-radius: 5px 0px 0px 5px;
+    overflow: hidden !important;
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;         
+}
+
+.bordes_curvos_derecha{
+    border-radius: 0px 5px 5px 0px;
+     -moz-border-radius: 0px 5px 5px 0px;
+    -khtml-border-radius: 0px 5px 5px 0px;
+    -webkit-border-radius: 0px 5px 5px 0px;
+    overflow: hidden !important;
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;         
+}
+
+.bordes_curvos_top{
+    border-radius: 5px 5px 0px 0px;
+     -moz-border-radius: 5px 5px 0px 0px;
+    -khtml-border-radius: 5px 5px 0px 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    overflow: hidden !important;
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;         
+}
+
+.bordes_curvos_down{
+    border-radius: 0px 0px 5px 5px;
+     -moz-border-radius: 0px 0px 5px 5px;
+    -khtml-border-radius: 0px 0px 5px 5px;
+    -webkit-border-radius: 0px 0px 5px 5px;
+    overflow: hidden !important;
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;         
+}
+
+/*Fuentes pequeñas*/
+.txt-xs{
+    font-size:10px;
+}
+.txt-sm{
+    font-size:11px;
+}
+
+.margin-top-bottom-button{
+    margin-top:3px;
+    margin-bottom:3px;
+}
+
+.fondo_vertical_grid{
+/*BT*/ color:#FFFFFF !important;            
+/*B*/  background-color: #000080;
+/*B*/  border: 1px solid #000080;
+       border-bottom: 1px solid #E7E7E7;
+       border-top: 1px solid #E7E7E7;
+}
+
+.background_color_btn{
+/*B*/ background-color: #000080;
+}
+
+.background_texto_btn{
+/*BT*/ color:#FFFFFF !important; 
+}
+
+.background_color_btn_selected{
+/*BS*/ background-color: #FFCC00; 
+}
+
+/* Splitter*/
+.dxWeb_splVCollapseBackwardButton_SoftOrange{
+    display:block;
+    color:#000;
+    cursor: pointer;
+    background: url('../img/iconos/ico_menor_que_blanco.png') no-repeat center;
+}
+
+.dxWeb_splVCollapseForwardButton_SoftOrange{
+    display:block;
+    color:#000;
+    cursor: pointer;
+    background: url('../img/iconos/ico_mayor_que_blanco.png') no-repeat center;
+}
+.dxsplVSeparator_SoftOrange{
+    margin: 0px 0px 0px 0px;
+}
+
+.dxsplVSeparatorButton_SoftOrange {
+        cursor: pointer;
+        padding: 80px 0px 80px 0px;
+/*B*/    background-color: #000080 !important;                                                  /*En Documentos cambio el color del separador vertical del Splitter*/
+}
+
+/*tamaño ancho del combo en el grid de page*/
+.dxpLite_DevEx .dxp-comboBox input
+{
+    width:33px;
+}
+/*--------------------------------------------------------------------*/
+
+/*Se quita la linea subrayada de los titulos del grid con tema DevEx*/
+.dxgvControl_DevEx a {
+    text-decoration: none;
+}
+
+.dxgvControl_DevEx a:hover {
+    text-decoration: none;
+}
+/*--------------------------------------------------------------------*/
+
+
+/*Colores del Filtro en el Grid*/
+.dxpcDropDown_MetropolisBlue{
+            border-radius: 0px 5px 5px 0px;
+             -moz-border-radius: 0px 5px 5px 0px;
+            -khtml-border-radius: 0px 5px 5px 0px;
+            -webkit-border-radius: 0px 5px 5px 0px;
+            overflow: hidden !important;
+            overflow-x: hidden !important;
+            overflow-y: hidden !important;                 
+        }
+
+        /*Hover del filtro del grid*/
+        .dxeListBoxItemHover_SoftOrange {
+/*B*/       background-color: #000080; 
+/*BT*/      color: #FFFFFF;
+        }
+
+        /*Botón deshabilitado del filtro del grid*/
+        .dxbDisabled_SoftOrange, a.dxbButton_SoftOrange.dxbDisabled_SoftOrange {
+/*BT*/      color: #FFFFFF;
+            cursor: default;
+            text-decoration: none;
+        }
+
+        .dxbDisabled_SoftOrange {
+            background: #cacaca url(/DXR.axd?r=0_5024-owDhf) repeat-x top;
+/*B*/       border-color: #000080;
+        }
+
+        /*Botón habilitado del filtro del grid*/
+        .dxbButton_SoftOrange {
+/*BT*/      color: #FFFFFF;
+            font: 12px Tahoma, Geneva, sans-serif;
+/*B*/       border: 1px solid #000080;
+/*B*/       background: #000080 repeat-x top;
+            padding: 1px;
+        }
+
+        .dxpcLoadingPanel_SoftOrange, .dxlpLoadingPanel_SoftOrange, .dxlpLoadingPanelWithContent_SoftOrange {
+            font: 12px Tahoma, Geneva, sans-serif;
+/*BT*/      color: #FFFFFF;
+            background-color: White;
+/*B*/       border: 1px solid #000080;
+        }
+/*--------------------------------------------------------------------*/
+
+
+/*Modal*/
+@media (min-width: 768px) {
+  .modal-xl {
+    width: 90%;
+    max-width:1200px;
+
+  }
+
+  .padding-bottom-lg {
+        padding-bottom: 7%;
+  }
+}
+
+.modal-header {
+   padding: 15px;
+   border-bottom: 1px solid #e5e5e5;
+ }
+ .modal-header .close {
+   margin-top: -20px;
+ }
+ .modal-title {
+   margin: 0;
+   line-height: 1.42857143;
+ }
+
+ /*ALTURA GRID CUANDO ES VACIA*/
+ .myEmptyDataRow{
+     height:270px;
+ }
+
+ .no-display{
+display:none;
+}
+
+/*BackColor de los ASPxVerticalGrid */
+.dxvgTable_SoftOrange .dxvgHEC {
+    background-color: #E8E8E8;
+}
+
+.sm {
+    height: 20px;
+}
+/*Botón de flecha regresar*/
+.flecha_regresar {
+    float: right;
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 1;
+    color: #FFF;
+    text-shadow: 0 1px 0 #FFF;
+    filter: alpha(opacity=10);
+    opacity: .9;
+}
+
+.flecha_regresar:hover,
+.flecha_regresar:focus {
+    color: #FFF;
+    text-decoration: none;
+    cursor: pointer;
+    text-decoration-color: #fff;
+    filter: alpha(opacity=50);
+    opacity: .5;
+}
+
+button.flecha_regresar {
+    -webkit-appearance: none;
+    padding: 0;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+}
+
+.desktopCell {
+    display: table-cell;
+}
+
+.imagen-logo-right-a {
+    width: 130px;
+    height: 100%;
+}
+
+.imagen-logo-right{
+    /*background-image: url("../Presentacion/Logo/logo_derecho.bmp");*/
+    width:  130px; 
+    height: 50px;    
+    overflow: hidden;
+    background-size: cover;
+    background-position: right;
+    display:block;        
+    background-repeat: no-repeat;
+    position:absolute;           
+    margin-right:5px;
+    margin:auto;
+    padding:0px;
+}
+
+.espacio_menu{
+    width:  5px; 
+    height: 26px;
+    overflow: hidden;
+}
